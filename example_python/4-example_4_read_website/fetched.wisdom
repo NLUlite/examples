@@ -1,0 +1,1837 @@
+<wisdom>
+<data>
+<item>
+<predicates>
+live/VB(verb1_19_11,dummyref0_19_11,obj1_19_11), thing/NNS(dummyref0_19_11), @PLACE_AT(verb1_19_11,ref4_19_11), ground/NN#[pivot](ref4_19_11), @TIME(verb1_19_11,present), @QUANTIFIER(dummyref0_19_11,name28_19_11), most/NN#[pivot](name28_19_11)
+</predicates>
+<link>
+
+</link>
+<text>
+ Most live on the ground, others live in the water, and a few live under the soil.
+</text>
+</item>
+<item>
+<predicates>
+have/VB(verb1_19_32,dummyref0_19_32,none), thing/NNS(dummyref0_19_32), @TIME(verb1_19_32,present), @QUANTIFIER(dummyref0_19_32,name19_19_32), some/DT#[pivot](name19_19_32), @SUBORD(verb1_19_32,verb6_19_32), cause/VB(verb6_19_32,name3_19_31,name8_19_32), venom/NNP#[pivot](name3_19_31), painful/JJ#[pivot](name8_19_32), injury/NN#[pivot](name8_19_32), @MOTION_TO(verb6_19_32,name12_19_32), human/NNS#[pivot](name12_19_32), @TIME(verb6_19_32,present), enough/RB(verb1_19_32), @OR/CC(name8_19_32,name10_19_32), death/NN#[pivot](name10_19_32)
+</predicates>
+<link>
+
+</link>
+<text>
+ Some have venom potent enough to cause painful injury or death to humans.
+</text>
+</item>
+<item>
+<predicates>
+relate/VB(verb9_19_28,dummyref8_19_28,name11_19_28), thing/NNS(dummyref8_19_28), specie/NNPS#[pivot](name11_19_28), non-venomous/NNS(name11_19_28), @TIME(verb9_19_28,past), @QUANTIFIER(dummyref8_19_28,name17_19_28), many/JJ#[pivot](name17_19_28), @GENITIVE(name11_19_28,[presupp_genitive]_1_name11_19_28), non-venomous/NNS([presupp_genitive]_1_name11_19_28)
+</predicates>
+<link>
+
+</link>
+<text>
+ This includes all venomous reptile species, as well as many related non-venomous species.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb1_19_1,name0_19_0,name2_19_1), they/PRP#[pivot](name0_19_0), part/NN#[pivot](name2_19_1), @TIME(verb1_19_1,present), @PLACE_AT(name0_19_0,name22_19_4), way/NN#[pivot](name22_19_4), their/PRP$(name22_19_4), @GENITIVE(name0_19_0,[presupp_genitive]_0_name6_19_72), colubroid/NNPS([presupp_genitive]_0_name6_19_72), @GENITIVE(name2_19_1,ref5_19_1), order_squamata/NN#[pivot](ref5_19_1), @OWNED_BY(name22_19_4,name14_19_4), leg/NNS#[pivot](name14_19_4)
+</predicates>
+<link>
+
+</link>
+<text>
+ They are part of the order Squamata.
+</text>
+</item>
+<item>
+<predicates>
+have/VB(verb1_19_4,name0_19_0,name3_19_4), they/PRP#[pivot](name0_19_0), slender/JJ(name3_19_4), body/NN#[pivot](name3_19_4), long/JJ#[pivot](name3_19_4), @EXCLUDING(verb1_19_4,name12_19_4), lack/NN#[pivot](name12_19_4), @TIME(verb1_19_4,present), @PLACE_AT(name0_19_0,name22_19_4), way/NN#[pivot](name22_19_4), their/PRP$(name22_19_4), @GENITIVE(name0_19_0,[presupp_genitive]_0_name6_19_72), colubroid/NNPS([presupp_genitive]_0_name6_19_72), @AND/-comma-(name3_19_4,name6_19_4), @GENITIVE(name12_19_4,name14_19_4), leg/NNS#[pivot](name14_19_4), @OWNED_BY(name22_19_4,name14_19_4)
+</predicates>
+<link>
+
+</link>
+<text>
+They have a long, slender body, and, despite the lack of legs, are very mobile in their own way.
+</text>
+</item>
+<item>
+<predicates>
+lack/VB(verb1_19_2,name0_19_0,name2_19_2), they/PRP#[pivot](name0_19_0), voice/NN#[pivot](name2_19_2), leg/NNS#[pivot](name2_19_2), @TIME(verb1_19_2,present), @PLACE_AT(name0_19_0,name22_19_4), way/NN#[pivot](name22_19_4), their/PRP$(name22_19_4), @GENITIVE(name0_19_0,[presupp_genitive]_0_name6_19_72), colubroid/NNPS([presupp_genitive]_0_name6_19_72), @AND/-comma-(name2_19_2,name4_19_2), ear/NNS#[pivot](name4_19_2), @OWNED_BY(name22_19_4,name14_19_4), leg/NNS#[pivot](name14_19_4), @AND/CC(name4_19_2,name9_19_2), eyelid/NNS#[pivot](name9_19_2)
+</predicates>
+<link>
+
+</link>
+<text>
+ They lack legs, voice, ears, and eyelids.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb16_19_4,name0_19_0,name18_19_4), they/PRP#[pivot](name0_19_0), mobile/JJ#[pivot](name18_19_4), @PLACE_AT(verb16_19_4,name22_19_4), way/NN#[pivot](name22_19_4), their/PRP$(name22_19_4), @TIME(verb16_19_4,present), @PLACE_AT(name0_19_0,name22_19_4), @GENITIVE(name0_19_0,[presupp_genitive]_0_name6_19_72), colubroid/NNPS([presupp_genitive]_0_name6_19_72), @PLACE_AT(name18_19_4,name22_19_4), @OWNED_BY(name22_19_4,name14_19_4), leg/NNS#[pivot](name14_19_4), very/RB(verb16_19_4)
+</predicates>
+<link>
+
+</link>
+<text>
+They have a long, slender body, and, despite the lack of legs, are very mobile in their own way.
+</text>
+</item>
+<item>
+<predicates>
+use/VB(verb4_19_72,name0_19_0,name14_19_68), colubroid/NNPS(name0_19_0), snake/NNP#[pivot](name0_19_0), this/NN#[pivot](name14_19_68), @TIME(verb4_19_72,present), @PLACE_AT(name0_19_0,name22_19_4), way/NN#[pivot](name22_19_4), their/PRP$(name22_19_4), @GENITIVE(name0_19_0,[presupp_genitive]_0_name6_19_72), colubroid/NNPS([presupp_genitive]_0_name6_19_72), @GENITIVE(name14_19_68,ref12_19_68), down/RP(ref12_19_68), snake/NN(ref12_19_68), @OWNED_BY(name22_19_4,name14_19_4), leg/NNS#[pivot](name14_19_4), often/RB(verb4_19_72)
+</predicates>
+<link>
+
+</link>
+<text>
+This is most often used by colubroid snakes .
+</text>
+</item>
+<item>
+<predicates>
+live/VB(verb2_19_0,name0_19_0,name3_19_0), snake/NNPS#[pivot](name0_19_0), reptile/NNS#[pivot](name3_19_0), @TIME(verb2_19_0,present|continuative), @PLACE_AT(name0_19_0,name22_19_4), way/NN#[pivot](name22_19_4), their/PRP$(name22_19_4), @GENITIVE(name0_19_0,[presupp_genitive]_0_name6_19_72), colubroid/NNPS([presupp_genitive]_0_name6_19_72), @OWNED_BY(name22_19_4,name14_19_4), leg/NNS#[pivot](name14_19_4)
+</predicates>
+<link>
+
+</link>
+<text>
+Snakes are living reptiles.
+</text>
+</item>
+<item>
+<predicates>
+group/VB(verb4_19_20,name0_19_16,obj4_19_20), they/PRP#[pivot](name0_19_16), @MOTION_TO(verb4_19_20,ref7_19_20), tuatara/NN#[pivot](ref7_19_20), @TIME(verb4_19_20,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ they are a sister group to the Tuatara.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb1_19_20,name0_19_16,name3_19_20), they/PRP#[pivot](name0_19_16), sister/NN#[pivot](name3_19_20), @TIME(verb1_19_20,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ they are a sister group to the Tuatara.
+</text>
+</item>
+<item>
+<predicates>
+record/VB(verb6_19_22,subj,name0_19_22), line/NNS#[pivot](name0_19_22), @TIME(verb6_19_22,present), @AND/-comma-(name0_19_22,name8_19_22), first/NN#[pivot](name8_19_22), @QUANTITY(name0_19_22,name26_19_22), 3/CD#[pivot](name26_19_22), @QUANTITY(name0_19_22,ref26_19_22), 6/CD(ref26_19_22), @PLACE_AT(name8_19_22,ref11_19_22), jurassic/NN#[pivot](ref11_19_22), upper/JJ#[pivot](ref11_19_22), @AND/-comma-(ref11_19_22,name15_19_22), other/NNS#[pivot](name15_19_22), @PLACE_AT(ref11_19_22,ref18_19_22), cretaceous/NNS#[pivot](ref18_19_22)
+</predicates>
+<link>
+
+</link>
+<text>
+ Three of the six lines are recorded first in the Upper Jurassic, the others in the Cretaceous.
+</text>
+</item>
+<item>
+<predicates>
+live/VB(verb3_19_5,name0_19_5,obj3_19_5), most/NN#[pivot](name0_19_5), @PLACE_AT(verb3_19_5,ref6_19_5), tropic/NNS#[pivot](ref6_19_5), @TIME(verb3_19_5,present), @GENITIVE(name0_19_5,name2_19_2), them/PRP#[pivot](name2_19_2), @AND/-comma-(name2_19_2,name4_19_2), ear/NNS#[pivot](name4_19_2), @AND/CC(name4_19_2,name9_19_2), eyelid/NNS#[pivot](name9_19_2)
+</predicates>
+<link>
+
+</link>
+<text>
+ Most of them live in the tropics.
+</text>
+</item>
+<item>
+<predicates>
+squeeze/VB(verb7_19_52,name0_19_52,name9_19_52), constrictor/NNPS#[pivot](name0_19_52), prey/NN#[pivot](name9_19_52), @MOTION_TO(verb7_19_52,name11_19_52), death/NN#[pivot](name11_19_52), @TIME(verb7_19_52,present), @OWNED_BY(name9_19_52,name11_19_48), @CAUSED_BY(verb7_19_52,verb1_19_52), be/VB(verb1_19_52,name0_19_52,name3_19_52), venomous/JJ#[pivot](name3_19_52), @TIME(verb1_19_52,present), not/RB(verb1_19_52)
+</predicates>
+<link>
+
+</link>
+<text>
+ Constrictors are not venomous, so they squeeze their prey to death.
+</text>
+</item>
+<item>
+<predicates>
+generate/VB(verb9_19_65,name0_19_65,name12_19_65), each/NN#[pivot](name0_19_65), force/NN(name12_19_65), reaction/NN#[pivot](name12_19_65), @TIME(verb9_19_65,present), @AND/-comma-(name0_19_65,ref3_19_65), these/DT(ref3_19_65), environmental/JJ(ref3_19_65), object/NNS#[pivot](ref3_19_65), @AND/CC(name12_19_65,name20_19_65), midline/NN#[pivot](name20_19_65), @GENITIVE(name12_19_65,[presupp_genitive]_0_name12_19_65), force/NN([presupp_genitive]_0_name12_19_65), @PLACE_AT(ref3_19_65,name7_19_65), turn/NN#[pivot](name7_19_65), @GENITIVE(name20_19_65,ref23_19_65), snake/NN#[pivot](ref23_19_65)
+</predicates>
+<link>
+
+</link>
+<text>
+ Each of these environmental objects, in turn, generates a reaction force directed forward and towards the midline of the snake, resulting in forward thrust while the lateral components cancel out.
+</text>
+</item>
+<item>
+<predicates>
+result/VB(verb25_19_65,name0_19_65,obj25_19_65), each/NN#[pivot](name0_19_65), @AND/-comma-(name0_19_65,ref3_19_65), these/DT(ref3_19_65), environmental/JJ(ref3_19_65), object/NNS#[pivot](ref3_19_65), @PLACE_AT(ref3_19_65,name7_19_65), turn/NN#[pivot](name7_19_65), @PLACE_AT(verb25_19_65,verb27_19_65), forward/VB(verb27_19_65,subj27_19_65,none), @TIME(verb27_19_65,present), @SUBORD(verb27_19_65,verb28_19_65), thrust_out/VB(verb28_19_65,subj27_19_65,obj28_19_65), @TIME(verb28_19_65,present), @TIME_AT(verb28_19_65,ref31_19_65), cancel/NN(ref31_19_65), lateral/JJ#[pivot](ref31_19_65), component/NNS#[pivot](ref31_19_65), @GENITIVE(ref31_19_65,[presupp_genitive]_1_ref31_19_65), cancel/NN([presupp_genitive]_1_ref31_19_65)
+</predicates>
+<link>
+
+</link>
+<text>
+ Each of these environmental objects, in turn, generates a reaction force directed forward and towards the midline of the snake, resulting in forward thrust while the lateral components cancel out.
+</text>
+</item>
+<item>
+<predicates>
+result/VB(verb11_19_69,name0_19_69,obj11_19_69), thrust/NN#[pivot](name0_19_69), @PLACE_AT(verb11_19_69,ref14_19_69), observed/JJ(ref14_19_69), slip/NN#[pivot](ref14_19_69)
+</predicates>
+<link>
+
+</link>
+<text>
+ Thrust is got by pushing their body against the water, resulting in the observed slip.
+</text>
+</item>
+<item>
+<predicates>
+get/VB(verb2_19_69,none,name0_19_69), thrust/NN#[pivot](name0_19_69), @TIME(verb2_19_69,present), @CAUSED_BY(verb2_19_69,verb4_19_69), push/VB(verb4_19_69,name0_19_69,name6_19_69), body/NN#[pivot](name6_19_69), @MOTION_AGAINST(verb4_19_69,ref9_19_69), water/NN#[pivot](ref9_19_69), @OWNED_BY(name6_19_69,name0_19_65)
+</predicates>
+<link>
+
+</link>
+<text>
+ Thrust is got by pushing their body against the water, resulting in the observed slip.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb1_19_74,name0_19_74,obj1_19_74), sidewinding/NNP#[pivot](name0_19_74), @TIME(verb1_19_74,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ Sidewinding is a modified form of lateral undulation in which all of the body segments oriented in one direction remain in contact with the ground, while the other segments are lifted up.
+</text>
+</item>
+<item>
+<predicates>
+pass/VB(verb5_19_86,name0_19_86,name6_19_86), wave/NNS#[pivot](name0_19_86), posteriorly/NNP#[pivot](name6_19_86), @TIME(verb5_19_86,present), @GENITIVE(name0_19_86,name3_19_62), movement/NNP#[pivot](name3_19_62), @AND/CC(name3_19_62,name4_19_86), stasis/NN#[pivot](name4_19_86)
+</predicates>
+<link>
+
+</link>
+<text>
+ Waves of movement and stasis pass posteriorly, resulting in a series of ripples in the skin.
+</text>
+</item>
+<item>
+<predicates>
+result/VB(verb8_19_86,name0_19_86,obj8_19_86), wave/NNS#[pivot](name0_19_86), @PLACE_AT(verb8_19_86,name11_19_86), serie/NNS#[pivot](name11_19_86), @PLACE_AT(verb8_19_86,ref16_19_86), skin/NN#[pivot](ref16_19_86), @GENITIVE(name0_19_86,name3_19_62), movement/NNP#[pivot](name3_19_62), @GENITIVE(name11_19_86,name13_19_86), ripple/NNS#[pivot](name13_19_86), @AND/CC(name3_19_62,name4_19_86), stasis/NN#[pivot](name4_19_86)
+</predicates>
+<link>
+
+</link>
+<text>
+ Waves of movement and stasis pass posteriorly, resulting in a series of ripples in the skin.
+</text>
+</item>
+<item>
+<predicates>
+spread/VB(verb11_19_92,name0_19_92,obj11_19_92), [act]/NN#[pivot](name0_19_92), @GENITIVE(name0_19_92,verb0_19_92), glide/VBG(verb0_19_92,none,name1_19_92), snake/NNS#[pivot](name1_19_92), @GENITIVE(name1_19_92,name4_19_92), southeast_asia/NNP#[pivot](name4_19_92)
+</predicates>
+<link>
+
+</link>
+<text>
+Gliding snakes  of Southeast Asia launch themselves from branch tips, spreading their ribs and laterally undulating as they glide between trees.
+</text>
+</item>
+<item>
+<predicates>
+launch/VB(verb5_19_92,name0_19_92,ref6_19_92), [act]/NN#[pivot](name0_19_92), themselves/PRP#[pivot](ref6_19_92), @MOTION_FROM(verb5_19_92,name9_19_92), branch/NN(name9_19_92), tip/NNS#[pivot](name9_19_92), @TIME(verb5_19_92,present), @GENITIVE(name0_19_92,verb0_19_92), glide/VBG(verb0_19_92,none,name1_19_92), snake/NNS#[pivot](name1_19_92), @GENITIVE(name9_19_92,[presupp_genitive]_0_name9_19_92), branch/NN([presupp_genitive]_0_name9_19_92), @GENITIVE(name1_19_92,name4_19_92), southeast_asia/NNP#[pivot](name4_19_92)
+</predicates>
+<link>
+
+</link>
+<text>
+Gliding snakes  of Southeast Asia launch themselves from branch tips, spreading their ribs and laterally undulating as they glide between trees.
+</text>
+</item>
+<item>
+<predicates>
+observe/VB(verb13_19_71,subj,name10_19_71), sea_snake/NNS#[pivot](name10_19_71), @TIME(verb13_19_71,past|before_past), @DATIVE(verb13_19_71,verb14_19_71), reverse/VB(verb14_19_71,subj14_19_71,name0_19_69), motion/NN#[pivot](name0_19_69), only/RB(verb13_19_71)
+</predicates>
+<link>
+
+</link>
+<text>
+ All snakes can laterally undulate forward , but only sea snakes have been observed reversing the motion .
+</text>
+</item>
+<item>
+<predicates>
+orient/VB(verb15_19_74,name10_19_74,obj15_19_74), body/NN(name10_19_74), segment/NNS#[pivot](name10_19_74), @PLACE_AT(verb15_19_74,name18_19_74), direction/NN#[pivot](name18_19_74), @TIME(verb15_19_74,past), @GENITIVE(name10_19_74,[presupp_genitive]_0_ref13_19_74), body/NN([presupp_genitive]_0_ref13_19_74), @QUANTIFIER(name10_19_74,all), @QUANTITY(name18_19_74,name49_19_74), 1/CD(name49_19_74)
+</predicates>
+<link>
+
+</link>
+<text>
+ Sidewinding is a modified form of lateral undulation in which all of the body segments oriented in one direction remain in contact with the ground, while the other segments are lifted up.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb9_19_25,name8_19_25,name11_19_25), neither/DT#[pivot](name8_19_25), proper/JJ(name11_19_25), clades/NNS#[pivot](name11_19_25), @TIME(verb9_19_25,present)
+</predicates>
+<link>
+
+</link>
+<text>
+Although snakes and lizards look so different, neither are proper clades.
+</text>
+</item>
+<item>
+<predicates>
+stretch/VB(verb8_19_47,name11_19_47,name5_19_44), [act]/NN#[pivot](name11_19_47), skin/NN#[pivot](name5_19_44), @TIME(verb8_19_47,present), @GENITIVE(name11_19_47,verb11_19_47), split/VBG(verb11_19_47,none,obj11_19_47), @OWNED_BY(name5_19_44,name4_19_41), already/RB(verb8_19_47)
+</predicates>
+<link>
+
+</link>
+<text>
+ This causes the skin, which is already stretched, to split open.
+</text>
+</item>
+<item>
+<predicates>
+direct/VB(verb15_19_65,subj,name12_19_65), force/NN(name12_19_65), reaction/NN#[pivot](name12_19_65), @TIME(verb15_19_65,present), @AND/CC(name12_19_65,name20_19_65), midline/NN#[pivot](name20_19_65), @GENITIVE(name12_19_65,[presupp_genitive]_0_name12_19_65), force/NN([presupp_genitive]_0_name12_19_65), @GENITIVE(name20_19_65,ref23_19_65), snake/NN#[pivot](ref23_19_65), forward/RB(verb15_19_65)
+</predicates>
+<link>
+
+</link>
+<text>
+ Each of these environmental objects, in turn, generates a reaction force directed forward and towards the midline of the snake, resulting in forward thrust while the lateral components cancel out.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb13_19_70,name12_19_70,name14_19_70), muscle/NN(name12_19_70), activation/NNP#[pivot](name12_19_70), different/JJ#[pivot](name14_19_70), @PLACE_AT(verb13_19_70,name20_19_70), lateral/JJ(name20_19_70), undulation/NN#[pivot](name20_19_70), terrestrial/JJ(name20_19_70), @TIME(verb13_19_70,present), @GENITIVE(name12_19_70,[presupp_genitive]_0_name12_19_70), muscle/NN([presupp_genitive]_0_name12_19_70), @PLACE_AT(name12_19_70,name20_19_70), @PLACE_AT(name14_19_70,name20_19_70)
+</predicates>
+<link>
+
+</link>
+<text>
+ In spite of overall similarities, studies show that the pattern of muscle activation is different in aquatic versus terrestrial lateral undulation, which justifies calling them separate modes.
+</text>
+</item>
+<item>
+<predicates>
+show/VB(verb19_19_77,name12_19_77,name23_19_77), track/NNS#[pivot](name12_19_77), scale/NN(name23_19_77), imprint/NN(name23_19_77), belly/NN#[pivot](name23_19_77), @EXCLUDING(verb19_19_77,name27_19_77), any/DT(name27_19_77), smearing/NN#[pivot](name27_19_77), @TIME(verb19_19_77,present), @GENITIVE(name12_19_77,name16_19_77), snake/NN#[pivot](name16_19_77), sidewinding/JJ(name16_19_77), @GENITIVE(name23_19_77,[presupp_genitive]_1_name23_19_77), scale/NN([presupp_genitive]_1_name23_19_77), @GENITIVE(name23_19_77,[presupp_genitive]_2_name23_19_77), imprint/NN([presupp_genitive]_2_name23_19_77)
+</predicates>
+<link>
+
+</link>
+<text>
+ The static nature of the contact points can be shown from the tracks of a sidewinding snake, which show each belly scale imprint, without any smearing.
+</text>
+</item>
+<item>
+<predicates>
+live/VB(verb15_19_11,name14_19_11,obj15_19_11), few/JJ#[pivot](name14_19_11), @PLACE_AT(verb15_19_11,ref18_19_11), soil/NN#[pivot](ref18_19_11), @TIME(verb15_19_11,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ Most live on the ground, others live in the water, and a few live under the soil.
+</text>
+</item>
+<item>
+<predicates>
+justify/VB(verb23_19_70,name14_19_70,none), different/JJ#[pivot](name14_19_70), @TIME(verb23_19_70,present), @PLACE_AT(name14_19_70,name20_19_70), lateral/JJ(name20_19_70), undulation/NN#[pivot](name20_19_70), terrestrial/JJ(name20_19_70), @SUBORD(verb23_19_70,verb24_19_70), call/VB(verb24_19_70,name14_19_70,obj24_19_70), @SUB-OBJ(verb23_19_70,verb27_19_70), separate/VB(verb27_19_70,name6_19_70,name28_19_70), study/NNS#[pivot](name6_19_70), mode/NNS#[pivot](name28_19_70), @TIME(verb27_19_70,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ In spite of overall similarities, studies show that the pattern of muscle activation is different in aquatic versus terrestrial lateral undulation, which justifies calling them separate modes.
+</text>
+</item>
+<item>
+<predicates>
+be/V([parenthetical]verbfrom0_19_89,name14_19_89,name16_19_89), specie/NNPS#[pivot](name14_19_89), bark/NN#[pivot](name16_19_89), @AND/CC(name14_19_89,name16_19_89)
+</predicates>
+<link>
+
+</link>
+<text>
+ While on tree branches, snakes use several modes of locomotion depending on species and bark texture.
+</text>
+</item>
+<item>
+<predicates>
+be/V([parenthetical]verb1_19_3,name16_19_3,name19_19_3), genera/NNS(name16_19_3), specie/NNPS#[pivot](name19_19_3)
+</predicates>
+<link>
+
+</link>
+<text>
+ Despite this, snakes are successful carnivores, with at least 20 families,and about 500 genera and 3400 species.
+</text>
+</item>
+<item>
+<predicates>
+glide/VB(verb20_19_92,name17_19_92,obj20_19_92), undulating/NN#[pivot](name17_19_92), @PLACE_AT(verb20_19_92,name22_19_92), tree/NNS#[pivot](name22_19_92), @TIME(verb20_19_92,present), @TOPIC(name17_19_92,name14_19_92), rib/NNS#[pivot](name14_19_92), @OWNED_BY(name14_19_92,name3_19_88), laterally/RB(verb20_19_92)
+</predicates>
+<link>
+
+</link>
+<text>
+Gliding snakes  of Southeast Asia launch themselves from branch tips, spreading their ribs and laterally undulating as they glide between trees.
+</text>
+</item>
+<item>
+<predicates>
+be/V([parenthetical]verb4_19_6,name18_19_6,name21_19_6), specie/NNPS#[pivot](name18_19_6), common_viper/JJ(name21_19_6), @AND/-comma-(name18_19_6,name21_19_6), life/NNS#[pivot](name21_19_6), @QUANTITY(name18_19_6,name36_19_6), 1/CD(name36_19_6), @AFTER(name21_19_6,ref26_19_6), arctic_circle/NN#[pivot](ref26_19_6)
+</predicates>
+<link>
+
+</link>
+<text>
+ Very few snake species live beyond the Tropic of Cancer or Tropic of Capricorn, and only one species, the common viper  lives beyond the Arctic Circle.
+</text>
+</item>
+<item>
+<predicates>
+straighten/VB(verb25_19_80,name19_19_80,obj25_19_80), front/NN#[pivot](name19_19_80), @TIME(verb25_19_80,present), @GENITIVE(name19_19_80,ref22_19_80), snake/NN#[pivot](ref22_19_80)
+</predicates>
+<link>
+
+</link>
+<text>
+ In this mode, the snake braces the posterior portion of its body against the tunnel wall while the front of the snake extends and straightens.
+</text>
+</item>
+<item>
+<predicates>
+become/VB(verb16_19_24,name1_19_24,name18_19_24), mosasaurs/NNS#[pivot](name1_19_24), top/JJ(name18_19_24), predator/NN#[pivot](name18_19_24), @GENITIVE(name1_19_24,ref4_19_24), upper/JJ(ref4_19_24), cretaceous/NNS#[pivot](ref4_19_24), @CAUSED_BY(name1_19_24,name10_19_24), successful/JJ#[pivot](name10_19_24), @PLACE_AT(name18_19_24,name22_19_24), ecosystem/NNP#[pivot](name22_19_24), @GENITIVE(name10_19_24,name14_19_24), lizard/NNS#[pivot](name14_19_24), @QUANTIFIER(name10_19_24,most), @CAUSED_BY(verb6_19_24,name10_19_24), @OWNED_BY(name22_19_24,name14_19_24), @QUANTIFIER(name14_19_24,all)
+</predicates>
+<link>
+
+</link>
+<text>
+ The Mosasaurs of the Upper Cretaceous were by far the most successful of all the lizards, becoming the top predator in their ecosystem.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb6_19_24,name1_19_24,name10_19_24), mosasaurs/NNS#[pivot](name1_19_24), successful/JJ#[pivot](name10_19_24), @CAUSED_BY(verb6_19_24,name10_19_24), @TIME(verb6_19_24,past), @GENITIVE(name1_19_24,ref4_19_24), upper/JJ(ref4_19_24), cretaceous/NNS#[pivot](ref4_19_24), @GENITIVE(name10_19_24,name14_19_24), lizard/NNS#[pivot](name14_19_24), @QUANTIFIER(name10_19_24,most), @CAUSED_BY(verb6_19_24,name10_19_24), @QUANTIFIER(name14_19_24,all)
+</predicates>
+<link>
+
+</link>
+<text>
+ The Mosasaurs of the Upper Cretaceous were by far the most successful of all the lizards, becoming the top predator in their ecosystem.
+</text>
+</item>
+<item>
+<predicates>
+look/VB(verb4_19_25,name1_19_25,name6_19_25), snake/NNS#[pivot](name1_19_25), different/JJ#[pivot](name6_19_25), @TIME(verb4_19_25,present), @AND/CC(name1_19_25,name3_19_25), lizard/NNS#[pivot](name3_19_25), so/RB(verb4_19_25)
+</predicates>
+<link>
+
+</link>
+<text>
+Although snakes and lizards look so different, neither are proper clades.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb4_19_29,name1_19_29,obj4_19_29), evidence/NN#[pivot](name1_19_29), @PLACE_AT(verb4_19_29,name8_19_29), molecular/JJ(name8_19_29), analysis/NNS#[pivot](name8_19_29), recent/JJ#[pivot](name8_19_29), @TIME(verb4_19_29,present), @FOR(name1_19_29,ref3_19_29), this/NN#[pivot](ref3_19_29), @PLACE_AT(name1_19_29,name8_19_29)
+</predicates>
+<link>
+
+</link>
+<text>
+ The evidence for this is in recent molecular analyses.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb2_19_30,name1_19_30,name3_19_30), snake/NNPS#[pivot](name1_19_30), nonvenomous/NNS#[pivot](name3_19_30), @TIME(verb2_19_30,present), @QUANTIFIER(name1_19_30,most)
+</predicates>
+<link>
+
+</link>
+<text>
+Most snakes are nonvenomous.
+</text>
+</item>
+<item>
+<predicates>
+swallow/VB(verb3_19_33,name1_19_33,none), snake/NNS#[pivot](name1_19_33), either/CC(name1_19_33,verb3_19_33), nonvenomous/JJ(name1_19_33), @TIME(verb3_19_33,present), @SUBORD(verb3_19_33,verb4_19_33), prey/VB(verb4_19_33,name1_19_33,name5_19_33), alive/JJ#[pivot](name5_19_33), @TIME(verb4_19_33,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ Nonvenomous snakes either swallow prey alive or kill by squeezing.
+</text>
+</item>
+<item>
+<predicates>
+swallow/VB(verb3_19_37,name1_19_33,name4_19_37), them/PRP#[pivot](name1_19_33), prey/NN#[pivot](name4_19_37), @COMPARED_TO(verb3_19_37,name9_19_37), head/NNS#[pivot](name9_19_37), @TIME(verb3_19_37,present), @OWNED_BY(name9_19_37,name1_19_33), much/RB(verb3_19_37)
+</predicates>
+<link>
+
+</link>
+<text>
+ This helps them swallow prey much larger than their heads.
+</text>
+</item>
+<item>
+<predicates>
+have/VB(verb2_19_36,name1_19_36,name3_19_36), snake/NNS#[pivot](name1_19_36), skull/NNS#[pivot](name3_19_36), @TIME(verb2_19_36,present), @WITH(verb2_19_36,name6_19_36), joint/NNS#[pivot](name6_19_36), @QUANTIFIER(name1_19_36,many), @COMPARED_TO(name6_19_36,name7_19_16), lizard/NNP(name7_19_16), ancestor/NNS#[pivot](name7_19_16), @MORE(name6_19_36,name18_19_36), my/JJ(name18_19_36), @GENITIVE(name7_19_16,[presupp_genitive]_0_name10_19_36), @OWNED_BY(name7_19_16,name8_19_32)
+</predicates>
+<link>
+
+</link>
+<text>
+Many snakes have skulls with more joints than their lizard ancestors.
+</text>
+</item>
+<item>
+<predicates>
+move/VB(verb8_19_38,name1_19_38,obj8_19_38), bone/NNS#[pivot](name1_19_38), @MODAL(verb8_19_38,can), @TIME(verb8_19_38,present), @GENITIVE(name1_19_38,ref4_19_38), head/NN#[pivot](ref4_19_38), @AND/CC(ref4_19_38,name6_19_38), jaw/NNS#[pivot](name6_19_38), @SUBORD(verb8_19_38,verb11_19_38), let/VB(verb11_19_38,name1_19_38,name13_19_38), large/JJ(name13_19_38), prey/NN#[pivot](name13_19_38), @TIME(verb11_19_38,present), apart/RB(verb8_19_38), @SUBORD(verb11_19_38,verb14_19_38), move/VB(verb14_19_38,name1_19_38,obj14_19_38), @MOTION_TO(verb14_19_38,name17_19_38), body/NN#[pivot](name17_19_38), @TIME(verb14_19_38,present), @OWNED_BY(name17_19_38,name2_19_34)
+</predicates>
+<link>
+
+</link>
+<text>
+ The bones of the head and jaws can move apart to let large prey move into their body.
+</text>
+</item>
+<item>
+<predicates>
+side/VB(verb14_19_42,name1_19_42,obj14_19_42), specie/NNS#[pivot](name1_19_42), @GENITIVE(verb14_19_42,ref17_19_42), cloaca/JJ#[pivot](ref17_19_42), @TIME(verb14_19_42,present), @QUANTIFIER(name1_19_42,some)
+</predicates>
+<link>
+
+</link>
+<text>
+ Some species have a pelvic girdle with a pair of vestigial claws on either side of the cloaca.
+</text>
+</item>
+<item>
+<predicates>
+have/VB(verb2_19_42,name1_19_42,name5_19_42), specie/NNS#[pivot](name1_19_42), pelvic_girdle/NN#[pivot](name5_19_42), @TIME(verb2_19_42,present), @WITH(verb2_19_42,name8_19_42), pair/NN#[pivot](name8_19_42), @QUANTIFIER(name1_19_42,some), @GENITIVE(name8_19_42,name11_19_42), vestigial/JJ(name11_19_42), claw/NNPS#[pivot](name11_19_42)
+</predicates>
+<link>
+
+</link>
+<text>
+ Some species have a pelvic girdle with a pair of vestigial claws on either side of the cloaca.
+</text>
+</item>
+<item>
+<predicates>
+shed/VB(verb3_19_44,name1_19_44,name5_19_44), need/NN#[pivot](name1_19_44), snake/NNPS(name1_19_44), skin/NN#[pivot](name5_19_44), @TIME(verb3_19_44,present), @GENITIVE(name1_19_44,[presupp_genitive]_0_name1_19_44), snake/NNPS([presupp_genitive]_0_name1_19_44), @SUBORD(name1_19_44,verb3_19_44), regularly/RB(verb3_19_44), @OWNED_BY(name5_19_44,name4_19_41), @TIME_AT(verb3_19_44,verb9_19_44), grow/VB(verb9_19_44,name1_19_42,obj9_19_44), they/PRP#[pivot](name1_19_42), @TIME(verb9_19_44,present), @QUANTIFIER(name1_19_42,some)
+</predicates>
+<link>
+
+</link>
+<text>
+Snakes need to shed their skin regularly while they grow.
+</text>
+</item>
+<item>
+<predicates>
+eat/VB(verb2_19_50,name1_19_50,name4_19_50), snake/NNPS#[pivot](name1_19_50), animal/NNS#[pivot](name4_19_50), other/JJ(name4_19_50), @TIME(verb2_19_50,present), @QUANTIFIER(name1_19_50,all)
+</predicates>
+<link>
+
+</link>
+<text>
+All snakes eat other animals.
+</text>
+</item>
+<item>
+<predicates>
+swallow/VB(verb1_19_53,name1_19_50,name3_19_53), they/PRP#[pivot](name1_19_50), food/NN#[pivot](name3_19_53), @TIME(verb1_19_53,present), @QUANTIFIER(name1_19_50,all), @OWNED_BY(name3_19_53,name1_19_50)
+</predicates>
+<link>
+
+</link>
+<text>
+ They swallow their food whole, and they cannot chew.
+</text>
+</item>
+<item>
+<predicates>
+chew/VB(verb10_19_53,name1_19_50,obj10_19_53), they/PRP#[pivot](name1_19_50), @MODAL(verb10_19_53,can), @TIME(verb10_19_53,present), @QUANTIFIER(name1_19_50,all), not/RB(verb10_19_53)
+</predicates>
+<link>
+
+</link>
+<text>
+ They swallow their food whole, and they cannot chew.
+</text>
+</item>
+<item>
+<predicates>
+inject/VB(verb2_19_51,name1_19_51,none), venomous/JJ(name1_19_51), snake/NNS#[pivot](name1_19_51), @TIME(verb2_19_51,present), @SUBORD(verb2_19_51,verb3_19_51), poison/VB(verb3_19_51,name1_19_51,obj3_19_51), @CAUSED_BY(verb3_19_51,name5_19_51), groove/NNS#[pivot](name5_19_51), @TIME(verb3_19_51,present), @TIME_AT(verb3_19_51,name8_19_51), tooth/NNS#[pivot](name8_19_51), @OWNED_BY(name8_19_51,name5_19_51)
+</predicates>
+<link>
+
+</link>
+<text>
+ venomous snakes inject poison by grooves in their teeth.
+</text>
+</item>
+<item>
+<predicates>
+go/VB(verb3_19_55,name1_19_55,obj3_19_55), snake/NNS#[pivot](name1_19_55), @MODAL(verb3_19_55,can), @TIME(verb3_19_55,present), @TIME_TO(verb3_19_55,name6_19_55), month/NNS#[pivot](name6_19_55), @QUANTIFIER(name1_19_55,some), @EXCLUDING(name6_19_55,name10_19_55), good/JJ(name10_19_55), meal/NN#[pivot](name10_19_55), @QUANTITY(name6_19_55,name17_19_55), 6/CD(name17_19_55)
+</predicates>
+<link>
+
+</link>
+<text>
+ Some snakes can go as long as six months without a good meal.
+</text>
+</item>
+<item>
+<predicates>
+impede/VB(verb6_19_56,name1_19_56,name8_19_56), lack/NN#[pivot](name1_19_56), movement/NN#[pivot](name8_19_56), @TIME(verb6_19_56,present), @GENITIVE(name1_19_56,name3_19_56), limb/NNS#[pivot](name3_19_56), @GENITIVE(name8_19_56,name10_19_56), snake/NNS#[pivot](name10_19_56), not/RB(verb6_19_56)
+</predicates>
+<link>
+
+</link>
+<text>
+The lack of limbs does not impede the movement of snakes.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb5_19_58,name1_19_58,name6_19_58), each/DT(name1_19_58), mode/NN#[pivot](name1_19_58), discrete/JJ#[pivot](name6_19_58), distinct/JJ#[pivot](name6_19_58), @MOTION_FROM(verb5_19_58,ref11_19_58), other/NNS#[pivot](ref11_19_58), @TIME(verb5_19_58,present), @GENITIVE(name1_19_58,name4_19_58), snake/NN(name4_19_58), locomotion/NN#[pivot](name4_19_58), @MOTION_FROM(name1_19_58,ref11_19_58), @MOTION_FROM(name6_19_58,ref11_19_58), @GENITIVE(name4_19_58,[presupp_genitive]_0_name4_19_58), snake/NN([presupp_genitive]_0_name4_19_58)
+</predicates>
+<link>
+
+</link>
+<text>
+ Each mode of snake locomotion is discrete and distinct from the others.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb2_19_59,name1_19_59,name4_19_59), undulation/NNP#[pivot](name1_19_59), lateral/JJ(name1_19_59), sole/JJ#[pivot](name4_19_59), mode/NN#[pivot](name4_19_59), @TIME(verb2_19_59,present), @AND/CC(name4_19_59,name12_19_59), common/JJ(name12_19_59), mode/NN#[pivot](name12_19_59), @GENITIVE(name4_19_59,name8_19_59), aquatic/JJ(name8_19_59), locomotion/NNP#[pivot](name8_19_59), @GENITIVE(name12_19_59,name17_19_59), terrestrial/JJ(name17_19_59), locomotion/NN#[pivot](name17_19_59), @QUANTIFIER(name12_19_59,most), @GENITIVE(name8_19_59,name25_19_79)
+</predicates>
+<link>
+
+</link>
+<text>
+Lateral undulation is the sole mode of aquatic locomotion, and the most common mode of terrestrial locomotion.
+</text>
+</item>
+<item>
+<predicates>
+have/VB(verb4_19_62,name1_19_62,name6_19_62), this/DT(name1_19_62), mode/NN#[pivot](name1_19_62), net/JJ#[pivot](name6_19_62), cost/NN#[pivot](name6_19_62), same/JJ#[pivot](name6_19_62), @TIME(verb4_19_62,present), @GENITIVE(name1_19_62,name3_19_62), movement/NNP#[pivot](name3_19_62), @GENITIVE(name6_19_62,name10_19_62), transport/NN#[pivot](name10_19_62), @AND/CC(name3_19_62,name4_19_86), stasis/NN#[pivot](name4_19_86), @TIME_AT(verb4_19_62,verb12_19_62), run/VB(verb12_19_62,name1_19_62,obj12_19_62), @PLACE_AT(verb12_19_62,name14_19_62), lizard/NNS#[pivot](name14_19_62), @GENITIVE(name14_19_62,ref17_19_62), mass/NN#[pivot](ref17_19_62), same/JJ(ref17_19_62)
+</predicates>
+<link>
+
+</link>
+<text>
+ This mode of movement has the same net cost of transport  as running in lizards of the same mass.
+</text>
+</item>
+<item>
+<predicates>
+depend/VB(verb5_19_66,name1_19_66,obj5_19_66), speed/NN#[pivot](name1_19_66), @PLACE_AT(verb5_19_66,name8_19_66), density/NN#[pivot](name8_19_66), @PLACE_AT(verb5_19_66,ref13_19_66), environment/NN#[pivot](ref13_19_66), @TIME(verb5_19_66,present), @GENITIVE(name1_19_66,ref4_19_66), this/DT(ref4_19_66), movement/NN#[pivot](ref4_19_66), @PLACE_AT(name1_19_66,name26_19_66), length/NN#[pivot](name26_19_66), @GENITIVE(name8_19_66,name10_19_66), push-points/NNS#[pivot](name10_19_66), @AND/-comma-(ref13_19_66,verb28_19_66), be/VB(verb28_19_66,name1_19_66,name29_19_66), @GENITIVE(name26_19_66,ref24_19_66), snake/NN(ref24_19_66), @PLACE_AT(verb28_19_66,name26_19_66)
+</predicates>
+<link>
+
+</link>
+<text>
+ The speed of this movement depends upon the density of push-points in the environment, with a medium density of about 8 along the snake&apos;s length being ideal.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb28_19_66,name1_19_66,name29_19_66), speed/NN#[pivot](name1_19_66), ideal/NNP#[pivot](name29_19_66), @PLACE_AT(verb28_19_66,name26_19_66), length/NN#[pivot](name26_19_66), @GENITIVE(name1_19_66,ref4_19_66), this/DT(ref4_19_66), movement/NN#[pivot](ref4_19_66), @PLACE_AT(name1_19_66,name26_19_66), @PLACE_AT(name29_19_66,name26_19_66), @GENITIVE(name26_19_66,ref24_19_66), snake/NN(ref24_19_66)
+</predicates>
+<link>
+
+</link>
+<text>
+ The speed of this movement depends upon the density of push-points in the environment, with a medium density of about 8 along the snake&apos;s length being ideal.
+</text>
+</item>
+<item>
+<predicates>
+cover/VB(verb3_19_7,subj,name1_19_7), skin/NN#[pivot](name1_19_7), @TIME(verb3_19_7,present), @WITH(verb3_19_7,name5_19_7), scale/NNS#[pivot](name5_19_7), @OWNED_BY(name1_19_7,name3_19_3)
+</predicates>
+<link>
+
+</link>
+<text>
+ Their skin is covered with scales.
+</text>
+</item>
+<item>
+<predicates>
+use/VB(verb1_19_73,name1_19_71,name0_19_69), they/PRP#[pivot](name1_19_71), it/PRP#[pivot](name0_19_69), @COMPARED_TO(verb1_19_73,name17_19_73), mud_flat/JJ#[pivot](name17_19_73), slick/JJ(name17_19_73), @TIME(verb1_19_73,present), @QUANTIFIER(name1_19_71,all)
+</predicates>
+<link>
+
+</link>
+<text>
+ They use it when the environment lacks anything firm to push against, such as a slick mud flat, or a sand dune.
+</text>
+</item>
+<item>
+<predicates>
+undulate/VB(verb4_19_71,name1_19_71,obj4_19_71), snake/NNPS#[pivot](name1_19_71), @MODAL(verb4_19_71,can), @TIME(verb4_19_71,present), @QUANTIFIER(name1_19_71,all), forward/RB(verb4_19_71), laterally/RB(verb4_19_71)
+</predicates>
+<link>
+
+</link>
+<text>
+ All snakes can laterally undulate forward , but only sea snakes have been observed reversing the motion .
+</text>
+</item>
+<item>
+<predicates>
+overcome/VB(verb4_19_76,name1_19_76,name6_19_76), this/DT(name1_19_76), mode/NN#[pivot](name1_19_76), slippery/JJ#[pivot](name6_19_76), nature/NN#[pivot](name6_19_76), @TIME(verb4_19_76,present), @GENITIVE(name1_19_76,name8_19_59), locomotion/NNP#[pivot](name8_19_59), @GENITIVE(name6_19_76,name9_19_76), sand/NN#[pivot](name9_19_76), @GENITIVE(name8_19_59,name25_19_79), @CAUSED_BY(verb4_19_76,verb13_19_76), push/VB(verb13_19_76,name1_19_76,obj13_19_76), @PLACE_AT(verb13_19_76,ref21_19_76), body/NN#[pivot](ref21_19_76), @WITH(verb13_19_76,name18_19_76), portion/NNS#[pivot](name18_19_76), static/JJ(name18_19_76), off/RP(verb13_19_76)
+</predicates>
+<link>
+
+</link>
+<text>
+ This mode of locomotion overcomes the slippery nature of sand or mud by pushing off with only static portions on the body, thereby minimizing slipping.
+</text>
+</item>
+<item>
+<predicates>
+show/VB(verb9_19_77,subj,name1_19_77), static/JJ(name1_19_77), nature/NN#[pivot](name1_19_77), @MODAL(verb9_19_77,can), @MOTION_FROM(verb9_19_77,name12_19_77), track/NNS#[pivot](name12_19_77), @TIME(verb9_19_77,present), @GENITIVE(name1_19_77,ref5_19_77), contact/NN(ref5_19_77), point/NNS#[pivot](ref5_19_77), @GENITIVE(name12_19_77,name16_19_77), snake/NN#[pivot](name16_19_77), sidewinding/JJ(name16_19_77), @GENITIVE(ref5_19_77,[presupp_genitive]_0_ref5_19_77), contact/NN([presupp_genitive]_0_ref5_19_77)
+</predicates>
+<link>
+
+</link>
+<text>
+ The static nature of the contact points can be shown from the tracks of a sidewinding snake, which show each belly scale imprint, without any smearing.
+</text>
+</item>
+<item>
+<predicates>
+have/VB(verb4_19_78,name1_19_78,name8_19_78), this/DT(name1_19_78), mode/NN#[pivot](name1_19_78), caloric/JJ(name8_19_78), cost/NN#[pivot](name8_19_78), low/JJ(name8_19_78), @FOR(verb4_19_78,name16_19_78), lizard/NN#[pivot](name16_19_78), @TIME(verb4_19_78,present), @GENITIVE(name1_19_78,name8_19_59), locomotion/NNP#[pivot](name8_19_59), @AND/-comma-(name8_19_78,verb20_19_78), move/VB(verb20_19_78,ref13_19_78,ref22_19_78), @GENITIVE(name8_19_59,name25_19_79), @GENITIVE(verb20_19_78,ref13_19_78), cost/NN#[pivot](ref13_19_78), @TIME(verb20_19_78,present), very/RB(verb4_19_78)
+</predicates>
+<link>
+
+</link>
+<text>
+ This mode of locomotion has very low caloric cost, less than ⅓ of the cost for a lizard or snake to move the same distance.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb4_19_82,name1_19_82,name5_19_82), mode/NN#[pivot](name1_19_82), this/DT(name1_19_82), slow/JJ#[pivot](name5_19_82), @TIME(verb4_19_82,present), @GENITIVE(name1_19_82,name8_19_59), locomotion/NNP#[pivot](name8_19_59), @GENITIVE(name8_19_59,name25_19_79)
+</predicates>
+<link>
+
+</link>
+<text>
+ This mode of locomotion is slow and very demanding, up to seven times the cost of laterally undulating over the same distance.
+</text>
+</item>
+<item>
+<predicates>
+demand/VB(verb8_19_82,name1_19_82,obj8_19_82), mode/NN#[pivot](name1_19_82), this/DT(name1_19_82), @PLACE_AT(verb8_19_82,name13_19_82), cost/NN#[pivot](name13_19_82), @PLACE_AT(verb8_19_82,ref19_19_82), same/JJ(ref19_19_82), distance/NN#[pivot](ref19_19_82), @GENITIVE(name1_19_82,name8_19_59), locomotion/NNP#[pivot](name8_19_59), @GENITIVE(name13_19_82,name16_19_82), undulating/NN#[pivot](name16_19_82), @GENITIVE(name8_19_59,name25_19_79), very/RB(verb8_19_82)
+</predicates>
+<link>
+
+</link>
+<text>
+ This mode of locomotion is slow and very demanding, up to seven times the cost of laterally undulating over the same distance.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb6_19_84,name1_19_84,name8_19_59), mode/NN#[pivot](name1_19_84), slowest/JJS(name1_19_84), locomotion/NNP#[pivot](name8_19_59), rectilinear/JJ(name8_19_59), @TIME(verb6_19_84,present), @GENITIVE(name1_19_84,name5_19_84), locomotion/NN#[pivot](name5_19_84), snake/NN(name5_19_84), @GENITIVE(name1_19_84,[presupp_genitive]_0_ref5_19_85), belly/NN([presupp_genitive]_0_ref5_19_85), @GENITIVE(name8_19_59,name25_19_79), @GENITIVE(name5_19_84,[presupp_genitive]_0_name5_19_84), snake/NN([presupp_genitive]_0_name5_19_84)
+</predicates>
+<link>
+
+</link>
+<text>
+The slowest mode of snake locomotion is rectilinear locomotion, which is also the only one where the snake does not need to bend its body laterally, though it may do so when turning.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb11_19_84,name1_19_84,ref18_19_84), mode/NN#[pivot](name1_19_84), slowest/JJS(name1_19_84), snake/NN#[pivot](ref18_19_84), @TIME(verb11_19_84,present), @GENITIVE(name1_19_84,name5_19_84), locomotion/NN#[pivot](name5_19_84), snake/NN(name5_19_84), @GENITIVE(name1_19_84,[presupp_genitive]_0_ref5_19_85), belly/NN([presupp_genitive]_0_ref5_19_85), @GENITIVE(name5_19_84,[presupp_genitive]_0_name5_19_84), snake/NN([presupp_genitive]_0_name5_19_84), @PLACE_AT/WRB(verb11_19_84,verb19_19_84), do/VB(verb19_19_84,ref18_19_84,obj19_19_84), @TIME(verb19_19_84,present), only/RB(verb11_19_84), also/RB(verb11_19_84), not/RB(verb19_19_84)
+</predicates>
+<link>
+
+</link>
+<text>
+The slowest mode of snake locomotion is rectilinear locomotion, which is also the only one where the snake does not need to bend its body laterally, though it may do so when turning.
+</text>
+</item>
+<item>
+<predicates>
+pull_down/VB(verb10_19_85,name1_19_84,obj10_19_85), scale/NNS#[pivot](name1_19_84), belly/NN(name1_19_84), @TIME(verb10_19_85,past), @GENITIVE(name1_19_84,name5_19_84), locomotion/NN#[pivot](name5_19_84), snake/NN(name5_19_84), @GENITIVE(name1_19_84,[presupp_genitive]_0_ref5_19_85), belly/NN([presupp_genitive]_0_ref5_19_85), @GENITIVE(name5_19_84,[presupp_genitive]_0_name5_19_84), snake/NN([presupp_genitive]_0_name5_19_84), @BEFORE(verb10_19_85,verb14_19_85), place/VB(verb14_19_85,subj,name1_19_84), @TIME(verb14_19_85,past|continuative), forward/RB(verb10_19_85)
+</predicates>
+<link>
+
+</link>
+<text>
+ In this mode, the belly scales are lifted and pulled forward before being placed down and the body pulled over them.
+</text>
+</item>
+<item>
+<predicates>
+lift/VB(verb8_19_85,subj,name1_19_84), scale/NNS#[pivot](name1_19_84), belly/NN(name1_19_84), @PLACE_AT(verb8_19_85,ref2_19_85), this/DT(ref2_19_85), mode/NN#[pivot](ref2_19_85), @TIME(verb8_19_85,present), @GENITIVE(name1_19_84,name5_19_84), locomotion/NN#[pivot](name5_19_84), snake/NN(name5_19_84), @GENITIVE(name1_19_84,[presupp_genitive]_0_ref5_19_85), belly/NN([presupp_genitive]_0_ref5_19_85), @GENITIVE(name5_19_84,[presupp_genitive]_0_name5_19_84), snake/NN([presupp_genitive]_0_name5_19_84)
+</predicates>
+<link>
+
+</link>
+<text>
+ In this mode, the belly scales are lifted and pulled forward before being placed down and the body pulled over them.
+</text>
+</item>
+<item>
+<predicates>
+move/VB(verb7_19_87,name1_19_87,obj7_19_87), rib/NNS#[pivot](name1_19_87), @PLACE_AT(verb7_19_87,name10_19_87), mode/NN#[pivot](name10_19_87), this/DT(name10_19_87), @TIME(verb7_19_87,present), @GENITIVE(name1_19_87,ref4_19_87), snake/NN#[pivot](ref4_19_87), @GENITIVE(name10_19_87,name8_19_59), locomotion/NNP#[pivot](name8_19_59), @GENITIVE(name8_19_59,name25_19_79), not/RB(verb7_19_87)
+</predicates>
+<link>
+
+</link>
+<text>
+ The ribs of the snake do not move in this mode of locomotion and this method is most often used by large pythons, boas, and vipers when stalking prey across open ground as the snake&apos;s movements are subtle and harder to detect by their prey in this manner.
+</text>
+</item>
+<item>
+<predicates>
+study/VB(verb10_19_88,subj,name1_19_88), movement/NN#[pivot](name1_19_88), @TIME(verb10_19_88,past|before_past), @GENITIVE(name1_19_88,name3_19_88), snake/NNS#[pivot](name3_19_88), @PLACE_AT(name3_19_88,name5_19_88), tree/NNS#[pivot](name5_19_88), recently/RB(verb10_19_88), only/RB(verb10_19_88)
+</predicates>
+<link>
+
+</link>
+<text>
+The movement of snakes in trees has only recently been studied.
+</text>
+</item>
+<item>
+<predicates>
+glide/VBG(verb0_19_92,none,name1_19_92), snake/NNS#[pivot](name1_19_92), @GENITIVE(name1_19_92,name4_19_92), southeast_asia/NNP#[pivot](name4_19_92)
+</predicates>
+<link>
+
+</link>
+<text>
+Gliding snakes  of Southeast Asia launch themselves from branch tips, spreading their ribs and laterally undulating as they glide between trees.
+</text>
+</item>
+<item>
+<predicates>
+glide/VBG(verb0_19_92,none,name1_19_92), snake/NNS#[pivot](name1_19_92), @GENITIVE(name1_19_92,name4_19_92), southeast_asia/NNP#[pivot](name4_19_92)
+</predicates>
+<link>
+
+</link>
+<text>
+Gliding snakes  of Southeast Asia launch themselves from branch tips, spreading their ribs and laterally undulating as they glide between trees.
+</text>
+</item>
+<item>
+<predicates>
+use/VB(verb19_19_87,name22_19_87,ref15_19_87), python/NNS#[pivot](name22_19_87), large/JJ(name22_19_87), this/DT(ref15_19_87), method/NN#[pivot](ref15_19_87), @TIME(verb19_19_87,present), @AND/CC(ref15_19_87,name27_19_87), viper/NNS#[pivot](name27_19_87), @TIME_AT/WRB(verb19_19_87,verb29_19_87), stalk/VBG(verb29_19_87,none,none), often/RB(verb19_19_87)
+</predicates>
+<link>
+
+</link>
+<text>
+ The ribs of the snake do not move in this mode of locomotion and this method is most often used by large pythons, boas, and vipers when stalking prey across open ground as the snake&apos;s movements are subtle and harder to detect by their prey in this manner.
+</text>
+</item>
+<item>
+<predicates>
+have/VB(verb24_19_41,name23_19_41,name28_19_41), snake/NNS#[pivot](name23_19_41), working/NN(name28_19_41), lung/NN#[pivot](name28_19_41), @TIME(verb24_19_41,present), @QUANTIFIER(name23_19_41,most), @GENITIVE(name28_19_41,[presupp_genitive]_0_name28_19_41), working/NN([presupp_genitive]_0_name28_19_41), @QUANTITY(name28_19_41,name43_19_41), 1/CD(name43_19_41), @SUBORD(verb24_19_41,verb1_19_41), fit/VB(verb1_19_41,name23_19_41,name4_19_41), narrow/JJ(name4_19_41), body/NNS#[pivot](name4_19_41), @TIME(verb1_19_41,present), only/RB(verb24_19_41), @OWNED_BY(name4_19_41,name9_19_37)
+</predicates>
+<link>
+
+</link>
+<text>
+To fit their narrow bodies, snakes&apos; paired organs  are one in front of the other instead of side by side, and most snakes have only one working lung.
+</text>
+</item>
+<item>
+<predicates>
+slip/VB(verb25_19_76,name24_19_76,obj25_19_76), [act]/NN#[pivot](name24_19_76), @GENITIVE(name24_19_76,verb24_19_76), minimize/VBG(verb24_19_76,none,none), thereby/RB(verb24_19_76)
+</predicates>
+<link>
+
+</link>
+<text>
+ This mode of locomotion overcomes the slippery nature of sand or mud by pushing off with only static portions on the body, thereby minimizing slipping.
+</text>
+</item>
+<item>
+<predicates>
+prey/VB(verb30_19_87,name29_19_87,obj30_19_87), [act]/NN#[pivot](name29_19_87), @TIME(verb30_19_87,present), @GENITIVE(name29_19_87,verb29_19_87), stalk/VBG(verb29_19_87,none,none), @MOTION_THROUGH(verb30_19_87,verb33_19_87), ground/VB(verb33_19_87,name32_19_87,obj33_19_87), open/JJ#[pivot](name32_19_87), @TIME(verb33_19_87,present), @TOPIC(verb33_19_87,name38_19_87), movement/NNS#[pivot](name38_19_87), @GENITIVE(name38_19_87,ref36_19_87), snake/NN(ref36_19_87)
+</predicates>
+<link>
+
+</link>
+<text>
+ The ribs of the snake do not move in this mode of locomotion and this method is most often used by large pythons, boas, and vipers when stalking prey across open ground as the snake&apos;s movements are subtle and harder to detect by their prey in this manner.
+</text>
+</item>
+<item>
+<predicates>
+prey/VB(verb47_19_87,name29_19_87,obj47_19_87), [act]/NN#[pivot](name29_19_87), @PLACE_AT(verb47_19_87,ref50_19_87), this/DT(ref50_19_87), manner/NN#[pivot](ref50_19_87), @TIME(verb47_19_87,present), @GENITIVE(name29_19_87,verb29_19_87), stalk/VBG(verb29_19_87,none,none)
+</predicates>
+<link>
+
+</link>
+<text>
+ The ribs of the snake do not move in this mode of locomotion and this method is most often used by large pythons, boas, and vipers when stalking prey across open ground as the snake&apos;s movements are subtle and harder to detect by their prey in this manner.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb39_19_87,name29_19_87,name40_19_87), [act]/NN#[pivot](name29_19_87), subtle/JJ#[pivot](name40_19_87), @TIME(verb39_19_87,present), @GENITIVE(name29_19_87,verb29_19_87), stalk/VBG(verb29_19_87,none,none)
+</predicates>
+<link>
+
+</link>
+<text>
+ The ribs of the snake do not move in this mode of locomotion and this method is most often used by large pythons, boas, and vipers when stalking prey across open ground as the snake&apos;s movements are subtle and harder to detect by their prey in this manner.
+</text>
+</item>
+<item>
+<predicates>
+appear/VB(verb5_19_18,name2_19_18,obj5_19_18), wide/JJ(name2_19_18), range/NN#[pivot](name2_19_18), @TIME(verb5_19_18,past), @TIME_AT(verb5_19_18,ref8_19_18), paleocene/NN(ref8_19_18), period/NN#[pivot](ref8_19_18), @GENITIVE(name2_19_18,name4_19_18), snake/NNS#[pivot](name4_19_18), @GENITIVE(ref8_19_18,[presupp_genitive]_0_ref8_19_18), paleocene/NN([presupp_genitive]_0_ref8_19_18)
+</predicates>
+<link>
+
+</link>
+<text>
+ A wide range of snakes appeared during the Paleocene period .
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb3_19_34,name2_19_34,name5_19_34), taxonomic/JJ(name2_19_34), family/NNS#[pivot](name2_19_34), venomous/JJ#[pivot](name5_19_34), @TIME(verb3_19_34,present), @QUANTITY(name2_19_34,name9_19_34), 2/CD(name9_19_34), entirely/RB(verb3_19_34)
+</predicates>
+<link>
+
+</link>
+<text>
+Two taxonomic families are entirely venomous.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb7_19_35,name2_19_35,obj7_19_35), family/NN#[pivot](name2_19_35), third/JJ(name2_19_35), @TIME(verb7_19_35,present), @WITH(name2_19_35,ref5_19_35), snake/NNPS#[pivot](ref5_19_35), [verbatim]_rear-fanged/NN(ref5_19_35), @GENITIVE(ref5_19_35,[presupp_genitive]_0_ref5_19_35), [verbatim]_rear-fanged/NN([presupp_genitive]_0_ref5_19_35)
+</predicates>
+<link>
+
+</link>
+<text>
+A third family with the &quot;rear-fanged&quot; snakes  is the.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb3_19_63,name2_19_63,name5_19_63), lateral/JJ(name2_19_63), undulation/NN#[pivot](name2_19_63), terrestrial/JJ#[pivot](name2_19_63), mode/NN#[pivot](name5_19_63), common/JJ(name5_19_63), @FOR(verb3_19_63,name13_19_63), snake/NN(name13_19_63), specie/NNP#[pivot](name13_19_63), @TIME(verb3_19_63,present), @FOR(name2_19_63,name13_19_63), @GENITIVE(name5_19_63,name10_19_63), locomotion/NN#[pivot](name10_19_63), terrestrial/JJ#[pivot](name10_19_63), @QUANTIFIER(name5_19_63,most), @FOR(name5_19_63,name13_19_63), @GENITIVE(name13_19_63,[presupp_genitive]_0_name13_19_63), snake/NN([presupp_genitive]_0_name13_19_63), @QUANTIFIER(name13_19_63,most)
+</predicates>
+<link>
+
+</link>
+<text>
+Terrestrial lateral undulation is the most common mode of terrestrial locomotion for most snake species.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb4_19_3,name3_19_3,name6_19_3), snake/NNS#[pivot](name3_19_3), successful/JJ#[pivot](name6_19_3), carnivore/NNS#[pivot](name6_19_3), @EXCLUDING(verb4_19_3,ref1_19_3), this/NN#[pivot](ref1_19_3), @TIME(verb4_19_3,present), @WITH(verb4_19_3,name11_19_3), family/NNS#[pivot](name11_19_3), @EXCLUDING(name3_19_3,ref1_19_3), @WITH(name3_19_3,name11_19_3), @EXCLUDING(name6_19_3,ref1_19_3), @WITH(name6_19_3,name11_19_3), @QUANTITY(name11_19_3,name25_19_3), 20/CD(name25_19_3)
+</predicates>
+<link>
+
+</link>
+<text>
+ Despite this, snakes are successful carnivores, with at least 20 families,and about 500 genera and 3400 species.
+</text>
+</item>
+<item>
+<predicates>
+have/VB(verb2_19_31,ref1_19_31,name3_19_31), venom/NNP#[pivot](name3_19_31), @TIME(verb2_19_31,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ Those that have venom use it mainly to kill and subdue prey rather than for self-defense.
+</text>
+</item>
+<item>
+<predicates>
+subdue/VB(verb10_19_31,name3_19_31,name11_19_31), venom/NNP#[pivot](name3_19_31), prey/NN#[pivot](name11_19_31), @FOR(verb10_19_31,name15_19_31), self-defense/JJ#[pivot](name15_19_31), @TIME(verb10_19_31,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ Those that have venom use it mainly to kill and subdue prey rather than for self-defense.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb1_19_43,name3_19_43,subj1_19_43), relic/NN#[pivot](name3_19_43), @TIME(verb1_19_43,present), @GENITIVE(name3_19_43,ref6_19_43), leg/NNS#[pivot](ref6_19_43)
+</predicates>
+<link>
+
+</link>
+<text>
+ This is a relic of the legs which do not appear in modern snakes.
+</text>
+</item>
+<item>
+<predicates>
+taste/VB(verb9_19_8,name3_19_6,name10_19_8), they/PRP#[pivot](name3_19_6), scent/NNS#[pivot](name10_19_8), @MODAL(verb9_19_8,can), @TIME(verb9_19_8,present), @WITH(verb9_19_8,name13_19_8), tongue/NNS#[pivot](name13_19_8), @GENITIVE(name3_19_6,[presupp_genitive]_0_name3_19_6), snake/NN([presupp_genitive]_0_name3_19_6), @PLACE_AT(name3_19_6,ref8_19_9), ground/NN#[pivot](ref8_19_9), @TIME_TO(name3_19_6,name5_19_9), vibration/NNS#[pivot](name5_19_9), @OWNED_BY(name13_19_8,name3_19_4), @CAUSED_BY(verb9_19_8,verb15_19_8), flick/VB(verb15_19_8,name3_19_6,name13_19_8), in_and_out/RB(verb15_19_8)
+</predicates>
+<link>
+
+</link>
+<text>
+ They can see well enough, and they can taste scents with their tongues by flicking them in and out.
+</text>
+</item>
+<item>
+<predicates>
+see/VB(verb2_19_8,name3_19_6,obj2_19_8), they/PRP#[pivot](name3_19_6), @MODAL(verb2_19_8,can), @TIME(verb2_19_8,present), @GENITIVE(name3_19_6,[presupp_genitive]_0_name3_19_6), snake/NN([presupp_genitive]_0_name3_19_6), @PLACE_AT(name3_19_6,ref8_19_9), ground/NN#[pivot](ref8_19_9), @TIME_TO(name3_19_6,name5_19_9), vibration/NNS#[pivot](name5_19_9), enough/RB(verb2_19_8), well/RB(verb2_19_8)
+</predicates>
+<link>
+
+</link>
+<text>
+ They can see well enough, and they can taste scents with their tongues by flicking them in and out.
+</text>
+</item>
+<item>
+<predicates>
+live/VB(verb4_19_6,name3_19_6,obj4_19_6), few/JJ#[pivot](name3_19_6), snake/NN(name3_19_6), specie/NNPS#[pivot](name3_19_6), @AFTER(verb4_19_6,name7_19_6), tropic/NN#[pivot](name7_19_6), @TIME(verb4_19_6,present), @GENITIVE(name3_19_6,[presupp_genitive]_0_name3_19_6), snake/NN([presupp_genitive]_0_name3_19_6), @PLACE_AT(name3_19_6,ref8_19_9), ground/NN#[pivot](ref8_19_9), @TIME_TO(name3_19_6,name5_19_9), vibration/NNS#[pivot](name5_19_9), @AND/CC(name7_19_6,name18_19_6), specie/NNPS#[pivot](name18_19_6), @GENITIVE(name7_19_6,name9_19_6), cancer/NNP#[pivot](name9_19_6), @AND/-comma-(name18_19_6,name21_19_6), common_viper/JJ(name21_19_6), life/NNS#[pivot](name21_19_6), @QUANTITY(name18_19_6,name36_19_6), 1/CD(name36_19_6), @OR/CC(name9_19_6,name11_19_6), tropic/NNP#[pivot](name11_19_6), @AFTER(name21_19_6,ref26_19_6), arctic_circle/NN#[pivot](ref26_19_6), @GENITIVE(name11_19_6,name13_19_6), capricorn/NNP#[pivot](name13_19_6), very/RB(verb4_19_6)
+</predicates>
+<link>
+
+</link>
+<text>
+ Very few snake species live beyond the Tropic of Cancer or Tropic of Capricorn, and only one species, the common viper  lives beyond the Arctic Circle.
+</text>
+</item>
+<item>
+<predicates>
+hiss/VB(verb10_19_10,name3_19_6,obj10_19_10), they/PRP#[pivot](name3_19_6), @MODAL(verb10_19_10,can), @TIME(verb10_19_10,present), @GENITIVE(name3_19_6,[presupp_genitive]_0_name3_19_6), snake/NN([presupp_genitive]_0_name3_19_6), @PLACE_AT(name3_19_6,ref8_19_9), ground/NN#[pivot](ref8_19_9), @TIME_TO(name3_19_6,name5_19_9), vibration/NNS#[pivot](name5_19_9), @EXCLUDING(verb10_19_10,verb4_19_10), have/VB(verb4_19_10,name3_19_6,name6_19_10), voice/NN#[pivot](name6_19_10), @TIME(verb4_19_10,present), not/RB(verb4_19_10)
+</predicates>
+<link>
+
+</link>
+<text>
+Though they do not have a voice, they can hiss.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb1_19_9,name3_19_6,name3_19_9), they/PRP#[pivot](name3_19_6), sensitive/JJ#[pivot](name3_19_9), @PLACE_AT(verb1_19_9,ref8_19_9), ground/NN#[pivot](ref8_19_9), @TIME(verb1_19_9,present), @TIME_TO(verb1_19_9,name5_19_9), vibration/NNS#[pivot](name5_19_9), @GENITIVE(name3_19_6,[presupp_genitive]_0_name3_19_6), snake/NN([presupp_genitive]_0_name3_19_6), @PLACE_AT(name3_19_6,ref8_19_9), @TIME_TO(name3_19_6,name5_19_9), @PLACE_AT(name3_19_9,ref8_19_9), @TIME_TO(name3_19_9,name5_19_9), very/RB(verb1_19_9)
+</predicates>
+<link>
+
+</link>
+<text>
+ They are very sensitive to vibrations in the ground.
+</text>
+</item>
+<item>
+<predicates>
+be/V([parenthetical]verb0_19_86,name3_19_62,name4_19_86), movement/NNP#[pivot](name3_19_62), stasis/NN#[pivot](name4_19_86), @AND/CC(name3_19_62,name4_19_86)
+</predicates>
+<link>
+
+</link>
+<text>
+ Waves of movement and stasis pass posteriorly, resulting in a series of ripples in the skin.
+</text>
+</item>
+<item>
+<predicates>
+remain/VB(verb19_19_74,name3_19_74,none), modified/JJ#[pivot](name3_19_74), @PLACE_AT(verb19_19_74,name3_19_74), @TIME(verb19_19_74,present), @PLACE_AT(verb19_19_74,verb21_19_74), contact/VB(verb21_19_74,none,obj21_19_74), @TIME(verb21_19_74,present), @WITH(verb21_19_74,ref24_19_74), ground/NN#[pivot](ref24_19_74), @TIME_AT(verb19_19_74,verb31_19_74), lift/VB(verb31_19_74,subj,ref28_19_74), segment/NNS#[pivot](ref28_19_74), other/JJ(ref28_19_74), @TIME(verb31_19_74,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ Sidewinding is a modified form of lateral undulation in which all of the body segments oriented in one direction remain in contact with the ground, while the other segments are lifted up.
+</text>
+</item>
+<item>
+<predicates>
+form/VB(verb4_19_74,name3_19_74,obj4_19_74), modified/JJ#[pivot](name3_19_74), @GENITIVE(verb4_19_74,name1_19_59), undulation/NNP#[pivot](name1_19_59), lateral/JJ(name1_19_59), @TIME(verb4_19_74,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ Sidewinding is a modified form of lateral undulation in which all of the body segments oriented in one direction remain in contact with the ground, while the other segments are lifted up.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb2_19_79,obj7_19_79,name3_19_79), absent/JJ#[pivot](name3_19_79), @TIME(verb2_19_79,present)
+</predicates>
+<link>
+
+</link>
+<text>
+When push-points are absent, but there is not enough space to use sidewinding because of lateral constraints, such as in tunnels, snakes rely on concertina locomotion.
+</text>
+</item>
+<item>
+<predicates>
+range/VB(verb1_19_14,name4_19_12,obj1_19_14), they/PRP#[pivot](name4_19_12), @MOTION_FROM(verb1_19_14,ref6_19_14), tiny/JJ#[pivot](ref6_19_14), @PLACE_AT(verb1_19_14,name3_19_14), size/NNP#[pivot](name3_19_14), @TIME(verb1_19_14,present)
+</predicates>
+<link>
+
+</link>
+<text>
+They range in size from the tiny, 10cm-long thread snake to the Reticulated python up to 8.7 meters  in length.
+</text>
+</item>
+<item>
+<predicates>
+need/VB(verb5_19_12,name4_19_12,none), snake/NNS#[pivot](name4_19_12), @COMPARED_TO(verb5_19_12,name2_19_12), reptile/NNS#[pivot](name2_19_12), @TIME(verb5_19_12,present), @QUANTIFIER(name2_19_12,all), @SUBORD(verb5_19_12,verb12_19_12), control/VB(verb12_19_12,name7_19_12,name15_19_12), heat/NN#[pivot](name7_19_12), body_temperature/NN#[pivot](name15_19_12), @TIME(verb12_19_12,present), @GENITIVE(name7_19_12,ref10_19_12), sun/NN#[pivot](ref10_19_12), @OWNED_BY(name15_19_12,name10_19_8)
+</predicates>
+<link>
+
+</link>
+<text>
+ Like all reptiles, snakes need the heat of the sun to control their body temperature.
+</text>
+</item>
+<item>
+<predicates>
+judge/VB(verb0_19_21,name4_19_21,subj0_19_21), fossil/JJ(name4_19_21), record/NN#[pivot](name4_19_21), @OWNED_BY(name4_19_21,name4_19_18)
+</predicates>
+<link>
+
+</link>
+<text>
+ Judged by their fossil record, the Squamates were present in the Mesozoic, but had a minor place in the land ecology.
+</text>
+</item>
+<item>
+<predicates>
+have/VB(verb15_19_21,name4_19_21,name18_19_21), fossil/JJ(name4_19_21), record/NN#[pivot](name4_19_21), minor/JJ(name18_19_21), place/NN#[pivot](name18_19_21), @TIME(verb15_19_21,past), @TIME_AT(verb15_19_21,ref21_19_21), land/NN(ref21_19_21), ecology/NN#[pivot](ref21_19_21), @OWNED_BY(name4_19_21,name4_19_18), @GENITIVE(ref21_19_21,[presupp_genitive]_0_ref21_19_21), land/NN([presupp_genitive]_0_ref21_19_21)
+</predicates>
+<link>
+
+</link>
+<text>
+ Judged by their fossil record, the Squamates were present in the Mesozoic, but had a minor place in the land ecology.
+</text>
+</item>
+<item>
+<predicates>
+feed/VB(verb5_19_54,name4_19_54,ref6_19_54), snake/NNS#[pivot](name4_19_54), @TIME(verb5_19_54,present), as_once/RB(verb5_19_54), as_infrequently/RB(verb5_19_54)
+</predicates>
+<link>
+
+</link>
+<text>
+ People who own pet snakes feed them as infrequently as once per month.
+</text>
+</item>
+<item>
+<predicates>
+develop/VB(verb2_19_57,name4_19_54,name5_19_57), they/PRP#[pivot](name4_19_54), mode/NNS#[pivot](name5_19_57), several/JJ(name5_19_57), different/JJ(name5_19_57), @TIME(verb2_19_57,past), @GENITIVE(name5_19_57,name7_19_57), locomotion/NN#[pivot](name7_19_57), @SUBORD(verb2_19_57,verb9_19_57), deal/VB(verb9_19_57,name4_19_54,obj9_19_57), @TIME(verb9_19_57,present), @WITH(verb9_19_57,name12_19_57), particular/JJ(name12_19_57), environment/NNS#[pivot](name12_19_57)
+</predicates>
+<link>
+
+</link>
+<text>
+ They have developed several different modes of locomotion to deal with particular environments.
+</text>
+</item>
+<item>
+<predicates>
+form/VB(verb6_19_81,name4_19_81,name9_19_81), flexes/NNS(name4_19_81), anchor/NN(name9_19_81), point/NN#[pivot](name9_19_81), @TIME(verb6_19_81,present), @GENITIVE(name9_19_81,[presupp_genitive]_0_name9_19_81), anchor/NN([presupp_genitive]_0_name9_19_81)
+</predicates>
+<link>
+
+</link>
+<text>
+ The front portion then flexes and forms an anchor point, and the posterior is straightened and pulled forwards.
+</text>
+</item>
+<item>
+<predicates>
+kill/VB(verb7_19_33,name5_19_33,obj7_19_33), alive/JJ#[pivot](name5_19_33), @TIME(verb7_19_33,present), @CAUSED_BY(verb7_19_33,verb9_19_33), squeeze/VB(verb9_19_33,name5_19_33,obj9_19_33)
+</predicates>
+<link>
+
+</link>
+<text>
+ Nonvenomous snakes either swallow prey alive or kill by squeezing.
+</text>
+</item>
+<item>
+<predicates>
+call/VB(verb2_19_45,subj,name5_19_42), this/NN#[pivot](name5_19_42), @DATIVE(verb2_19_45,name3_19_45), moulting/JJ#[pivot](name3_19_45), @TIME(verb2_19_45,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ This is called moulting.
+</text>
+</item>
+<item>
+<predicates>
+turn/VB(verb19_19_93,name5_19_89,obj19_19_93), these/DT(name5_19_89), snake/NNS#[pivot](name5_19_89), @MODAL(verb19_19_93,can), @PLACE_AT(verb19_19_93,name21_19_93), midair/NN#[pivot](name21_19_93), @TIME(verb19_19_93,present), even/RB(verb19_19_93)
+</predicates>
+<link>
+
+</link>
+<text>
+ These snakes can perform a controlled glide for hundreds of feet depending upon launch altitude and can even turn in midair.
+</text>
+</item>
+<item>
+<predicates>
+use/VB(verb6_19_89,name5_19_89,name8_19_89), snake/NNS#[pivot](name5_19_89), mode/NNS#[pivot](name8_19_89), several/JJ#[pivot](name8_19_89), @TIME(verb6_19_89,present), @GENITIVE(name8_19_89,name10_19_89), locomotion/NN#[pivot](name10_19_89), @CAUSED_BY(verb6_19_89,verb12_19_89), depend/VB(verb12_19_89,name5_19_89,obj12_19_89), @PLACE_AT(verb12_19_89,name14_19_89), specie/NNPS#[pivot](name14_19_89), @TIME_AT(verb12_19_89,name3_19_89), tree_branch/NNS#[pivot](name3_19_89), @AND/CC(name14_19_89,name16_19_89), bark/NN#[pivot](name16_19_89)
+</predicates>
+<link>
+
+</link>
+<text>
+ While on tree branches, snakes use several modes of locomotion depending on species and bark texture.
+</text>
+</item>
+<item>
+<predicates>
+perform/VB(verb3_19_93,name5_19_89,name6_19_93), these/DT(name5_19_89), snake/NNS#[pivot](name5_19_89), glide/NN#[pivot](name6_19_93), controlled/JJ(name6_19_93), @FOR(verb3_19_93,name8_19_93), foot/NNS#[pivot](name8_19_93), @MODAL(verb3_19_93,can), @TIME(verb3_19_93,present), @QUANTITY(name8_19_93,name35_19_93), 100/CD#[pivot](name35_19_93), @CAUSED_BY(verb3_19_93,verb12_19_93), depend/VB(verb12_19_93,name5_19_89,obj12_19_93), @PLACE_AT(verb12_19_93,name15_19_93), launch/NN#[pivot](name15_19_93), altitude/NNP(name15_19_93), @GENITIVE(name15_19_93,[presupp_genitive]_0_name15_19_93)
+</predicates>
+<link>
+
+</link>
+<text>
+ These snakes can perform a controlled glide for hundreds of feet depending upon launch altitude and can even turn in midair.
+</text>
+</item>
+<item>
+<predicates>
+live/VB(verb7_19_11,name6_19_11,obj7_19_11), other/NNS#[pivot](name6_19_11), @PLACE_AT(verb7_19_11,ref10_19_11), water/NN#[pivot](ref10_19_11), @TIME(verb7_19_11,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ Most live on the ground, others live in the water, and a few live under the soil.
+</text>
+</item>
+<item>
+<predicates>
+document/VB(verb10_19_61,subj,name6_19_61), snake/NNS#[pivot](name6_19_61), @DATIVE(verb10_19_61,name11_19_61), moving/JJ#[pivot](name11_19_61), @MORE(verb10_19_61,name12_19_61), fast/JJ(name12_19_61), @TIME(verb10_19_61,past|before_past), @COMPARED_TO(name12_19_61,name15_19_61), body-lengths/NNS#[pivot](name15_19_61), @QUANTITY(name15_19_61,name31_19_61), 2/CD(name31_19_61), @TIME_AT(verb10_19_61,verb3_19_61), appear/VB(verb3_19_61,ref2_19_61,name4_19_61), this/DT(ref2_19_61), movement/NN#[pivot](ref2_19_61), rapid/NN#[pivot](name4_19_61), @TIME(verb3_19_61,present), rarely/RB(verb10_19_61)
+</predicates>
+<link>
+
+</link>
+<text>
+ While this movement appears rapid, snakes have rarely been documented moving faster than two body-lengths per second, often much less.
+</text>
+</item>
+<item>
+<predicates>
+show/VB(verb7_19_70,name6_19_70,name10_19_70), study/NNS#[pivot](name6_19_70), pattern/NN#[pivot](name10_19_70), that/DT(name10_19_70), @PLACE_AT(verb7_19_70,name1_19_70), spite/NN#[pivot](name1_19_70), @TIME(verb7_19_70,present), @GENITIVE(name10_19_70,verb13_19_70), be/VB(verb13_19_70,name12_19_70,name14_19_70), @GENITIVE(name1_19_70,name4_19_70), similarity/NNS#[pivot](name4_19_70), overall/JJ(name4_19_70), @PLACE_AT(verb13_19_70,name20_19_70), lateral/JJ(name20_19_70), undulation/NN#[pivot](name20_19_70), terrestrial/JJ(name20_19_70), @TIME(verb13_19_70,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ In spite of overall similarities, studies show that the pattern of muscle activation is different in aquatic versus terrestrial lateral undulation, which justifies calling them separate modes.
+</text>
+</item>
+<item>
+<predicates>
+use/VBG(verb19_19_83,name6_19_83,name22_19_83), stop/NNS#[pivot](name6_19_83), repeated/JJ(name6_19_83), effort/NN#[pivot](name22_19_83), active/JJ#[pivot](name22_19_83), muscular/JJ(name22_19_83), @AND/CC(name6_19_83,name9_19_83), start/NNS#[pivot](name9_19_83), @GENITIVE(name6_19_83,verb19_19_83), @GENITIVE(name9_19_83,name11_19_83), portion/NNS#[pivot](name11_19_83), @GENITIVE(name11_19_83,ref14_19_83), body/NN#[pivot](ref14_19_83), @SUBORD(verb19_19_83,verb24_19_83), brace/VB(verb24_19_83,name6_19_83,obj24_19_83), @MOTION_AGAINST(verb24_19_83,ref27_19_83), tunnel/NN(ref27_19_83), wall/NNS#[pivot](ref27_19_83), @TIME(verb24_19_83,present), @AND/CC(ref14_19_83,ref17_19_83), necessity/NN#[pivot](ref17_19_83), @GENITIVE(ref27_19_83,[presupp_genitive]_0_ref27_19_83), tunnel/NN([presupp_genitive]_0_ref27_19_83)
+</predicates>
+<link>
+
+</link>
+<text>
+ This high cost is due to the repeated stops and starts of portions of the body as well as the necessity of using active muscular effort to brace against the tunnel walls.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb1_19_13,name7_19_12,obj1_19_13), that/NN#[pivot](name7_19_12), @TIME(verb1_19_13,present), @GENITIVE(name7_19_12,ref10_19_12), sun/NN#[pivot](ref10_19_12), @CAUSED_BY/WRB(verb1_19_13,verb5_19_13), be/VB(verb5_19_13,name4_19_13,obj5_19_13), snake/NNPS#[pivot](name4_19_13), @PLACE_AT(verb5_19_13,ref8_19_13), tropical/JJ(ref8_19_13), region/NNS#[pivot](ref8_19_13), warm/JJ#[pivot](ref8_19_13), humid/JJ(ref8_19_13), @TIME(verb5_19_13,present), @QUANTIFIER(name4_19_13,most), @PLACE_AT(name4_19_13,ref8_19_13), @GENITIVE(ref8_19_13,ref15_19_13), world/NN#[pivot](ref15_19_13)
+</predicates>
+<link>
+
+</link>
+<text>
+ That is why most snakes are in the warm, humid tropical regions of the world.
+</text>
+</item>
+<item>
+<predicates>
+exist/VB(verb4_19_27,name7_19_27,none), clade/NN#[pivot](name7_19_27), monophyletic/JJ#[pivot](name7_19_27), toxicofera/NN#[pivot](name7_19_27), @PLACE_AT(verb4_19_27,ref2_19_27), that/DT(ref2_19_27), clade/JJ#[pivot](ref2_19_27), @TIME(verb4_19_27,present), @AND/-comma-(name7_19_27,ref10_19_27)
+</predicates>
+<link>
+
+</link>
+<text>
+ Within that clade there is another monophyletic clade, the Toxicofera.
+</text>
+</item>
+<item>
+<predicates>
+swallow/VB(verb9_19_40,name7_19_40,obj9_19_40), thin-looking/JJ(name7_19_40), snake/NN#[pivot](name7_19_40), @MODAL(verb9_19_40,can), @TIME(verb9_19_40,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ In this was, a thin-looking snake can swallow and digest a larger animal.
+</text>
+</item>
+<item>
+<predicates>
+cause/VB(verb1_19_47,name7_19_40,name5_19_44), this/NN#[pivot](name7_19_40), skin/NN#[pivot](name5_19_44), @TIME(verb1_19_47,present), @OWNED_BY(name5_19_44,name4_19_41)
+</predicates>
+<link>
+
+</link>
+<text>
+ This causes the skin, which is already stretched, to split open.
+</text>
+</item>
+<item>
+<predicates>
+let/VB(verb1_19_49,name7_19_40,obj1_19_49), this/NN#[pivot](name7_19_40), it/PRP#[pivot](name7_19_40), @TIME(verb1_19_49,present), @SUBORD(verb1_19_49,verb3_19_49), crawl/VB(verb3_19_49,name7_19_40,obj3_19_49), @TIME(verb3_19_49,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ This lets it crawl out, turning the skin inside out.
+</text>
+</item>
+<item>
+<predicates>
+open/VB(verb12_19_47,name7_19_40,obj12_19_47), this/NN#[pivot](name7_19_40), @TIME(verb12_19_47,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ This causes the skin, which is already stretched, to split open.
+</text>
+</item>
+<item>
+<predicates>
+digest/VB(verb11_19_40,name7_19_40,name14_19_40), snake/NN#[pivot](name7_19_40), thin-looking/JJ(name7_19_40), animal/NN#[pivot](name14_19_40), @TIME(verb11_19_40,present), @MORE(name14_19_40,name24_19_40), large/JJ(name24_19_40)
+</predicates>
+<link>
+
+</link>
+<text>
+ In this was, a thin-looking snake can swallow and digest a larger animal.
+</text>
+</item>
+<item>
+<predicates>
+turn/VB(verb6_19_49,name7_19_40,name5_19_44), it/PRP#[pivot](name7_19_40), this/NN#[pivot](name7_19_40), skin/NN#[pivot](name5_19_44), @OWNED_BY(name5_19_44,name4_19_41)
+</predicates>
+<link>
+
+</link>
+<text>
+ This lets it crawl out, turning the skin inside out.
+</text>
+</item>
+<item>
+<predicates>
+appear/VB(verb10_19_43,name7_19_40,obj10_19_43), this/NN#[pivot](name7_19_40), @PLACE_AT(verb10_19_43,name13_19_43), modern/JJ(name13_19_43), snake/NNS#[pivot](name13_19_43), @TIME(verb10_19_43,present), not/RB(verb10_19_43)
+</predicates>
+<link>
+
+</link>
+<text>
+ This is a relic of the legs which do not appear in modern snakes.
+</text>
+</item>
+<item>
+<predicates>
+be/V([parenthetical]verb4_19_6,name7_19_6,name18_19_6), tropic/NN#[pivot](name7_19_6), specie/NNPS#[pivot](name18_19_6), @AND/CC(name7_19_6,name18_19_6), @GENITIVE(name7_19_6,name9_19_6), cancer/NNP#[pivot](name9_19_6), @AND/-comma-(name18_19_6,name21_19_6), common_viper/JJ(name21_19_6), life/NNS#[pivot](name21_19_6), @QUANTITY(name18_19_6,name36_19_6), 1/CD(name36_19_6), @OR/CC(name9_19_6,name11_19_6), tropic/NNP#[pivot](name11_19_6), @AFTER(name21_19_6,ref26_19_6), arctic_circle/NN#[pivot](ref26_19_6), @GENITIVE(name11_19_6,name13_19_6), capricorn/NNP#[pivot](name13_19_6)
+</predicates>
+<link>
+
+</link>
+<text>
+ Very few snake species live beyond the Tropic of Cancer or Tropic of Capricorn, and only one species, the common viper  lives beyond the Arctic Circle.
+</text>
+</item>
+<item>
+<predicates>
+include/VB(verb1_19_28,name8_19_25,name5_19_28), this/NN#[pivot](name8_19_25), venomous/JJ#[pivot](name5_19_28), reptile/NN(name5_19_28), specie/NNS#[pivot](name5_19_28), @TIME(verb1_19_28,present), @GENITIVE(name5_19_28,[presupp_genitive]_0_name5_19_28), reptile/NN([presupp_genitive]_0_name5_19_28)
+</predicates>
+<link>
+
+</link>
+<text>
+ This includes all venomous reptile species, as well as many related non-venomous species.
+</text>
+</item>
+<item>
+<predicates>
+result/VB(verb1_19_75,name8_19_73,obj1_19_75), this/NN#[pivot](name8_19_73), @PLACE_AT(verb1_19_75,name6_19_75), motion/NN#[pivot](name6_19_75), peculiar/JJ#[pivot](name6_19_75), [verbatim]_rolling/NN(name6_19_75), @TIME(verb1_19_75,present), @GENITIVE(name8_19_73,[presupp_genitive]_0_name8_19_73), anything/NN([presupp_genitive]_0_name8_19_73), @GENITIVE(name6_19_75,[presupp_genitive]_0_name6_19_75), [verbatim]_rolling/NN([presupp_genitive]_0_name6_19_75)
+</predicates>
+<link>
+
+</link>
+<text>
+ This results in a peculiar &quot;rolling&quot; motion.
+</text>
+</item>
+<item>
+<predicates>
+snake/VB(verb10_19_14,name9_19_14,obj10_19_14), thread/NN#[pivot](name9_19_14), @MOTION_TO(verb10_19_14,name13_19_14), reticulated_python/NN#[pivot](name13_19_14), @TIME(verb10_19_14,present), @QUANTITY(name9_19_14,name29_19_14), 10cm-long/CD(name29_19_14), @PLACE_AT(name13_19_14,name16_19_14), meter/NNS#[pivot](name16_19_14), @PLACE_AT(name16_19_14,name18_19_14), length/NN#[pivot](name18_19_14), @QUANTITY(name16_19_14,name30_19_14), 8.7/CD(name30_19_14)
+</predicates>
+<link>
+
+</link>
+<text>
+They range in size from the tiny, 10cm-long thread snake to the Reticulated python up to 8.7 meters  in length.
+</text>
+</item>
+<item>
+<predicates>
+do/VB(verb11_19_26,name9_19_26,name12_19_26), group/NNS#[pivot](name9_19_26), both/DT(name9_19_26), form/NN#[pivot](name12_19_26), @TIME(verb11_19_26,present), @CAUSED_BY(verb11_19_26,verb1_19_26), do/VB(verb1_19_26,name0_19_26,name2_19_26), snake/NNPS#[pivot](name0_19_26), descend/NN#[pivot](name2_19_26), @MOTION_FROM(verb1_19_26,name5_19_26), lizard/NNS#[pivot](name5_19_26), early/JJ(name5_19_26), @TIME(verb1_19_26,past), together/RB(verb11_19_26)
+</predicates>
+<link>
+
+</link>
+<text>
+ Snakes did descend from early lizards, so both groups together do form a monophyletic clade, the Squamata.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb10_19_41,name9_19_41,dummyref11_19_41), organ/NNS#[pivot](name9_19_41), paired/JJ(name9_19_41), thing/NN(dummyref11_19_41), @BEFORE(verb10_19_41,name14_19_41), other/JJ#[pivot](name14_19_41), instead/NN#[pivot](name14_19_41), @CAUSED_BY(verb10_19_41,name19_19_41), side/NN#[pivot](name19_19_41), @TIME(verb10_19_41,present), @GENITIVE(name9_19_41,name6_19_41), snake/NNS(name6_19_41), @BEFORE(name9_19_41,name14_19_41), @CAUSED_BY(name9_19_41,name19_19_41), @QUANTITY(dummyref11_19_41,name41_19_41), 1/CD#[pivot](name41_19_41), @BEFORE(dummyref11_19_41,name14_19_41), @CAUSED_BY(dummyref11_19_41,name19_19_41), @GENITIVE(name14_19_41,name17_19_41), side/NN#[pivot](name17_19_41)
+</predicates>
+<link>
+
+</link>
+<text>
+To fit their narrow bodies, snakes&apos; paired organs  are one in front of the other instead of side by side, and most snakes have only one working lung.
+</text>
+</item>
+<item>
+<predicates>
+result/VB(verb17_19_60,name9_19_60,obj17_19_60), flexes/NNS(name9_19_60), alternately/RB(name9_19_60), @PLACE_AT(verb17_19_60,ref2_19_60), mode/NN#[pivot](ref2_19_60), this/DT(ref2_19_60), @PLACE_AT(verb17_19_60,name20_19_60), serie/NNS#[pivot](name20_19_60), @AND/-comma-(name9_19_60,name10_19_60), @MOTION_TO(name9_19_60,ref13_19_60), left/JJ#[pivot](ref13_19_60), @GENITIVE(name20_19_60,name23_19_60), [verbatim]_waves/NNP(name23_19_60), rearward-moving/NNP#[pivot](name23_19_60), @AND/CC(ref13_19_60,name15_19_60), right/NN#[pivot](name15_19_60), @GENITIVE(name23_19_60,[presupp_genitive]_0_name23_19_60), [verbatim]_waves/NNP([presupp_genitive]_0_name23_19_60)
+</predicates>
+<link>
+
+</link>
+<text>
+ In this mode, the body of the snake alternately flexes to the left and right, resulting in a series of rearward-moving &quot;waves&quot;.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb10_19_91,name9_19_91,name11_19_91), contact/NN(name9_19_91), point/NNS#[pivot](name9_19_91), branch/NNS#[pivot](name11_19_91), small/JJ(name11_19_91), present/JJ#[pivot](name11_19_91), @TIME(verb10_19_91,present), @GENITIVE(name9_19_91,[presupp_genitive]_0_name9_19_91), contact/NN([presupp_genitive]_0_name9_19_91), @AND/CC(name11_19_91,name9_19_91), @PLACE_AT(verb10_19_91,verb14_19_91), contrast/VB(verb14_19_91,name9_19_91,obj14_19_91), @DATIVE(verb14_19_91,name17_19_91), limbed/JJ(name17_19_91), animal/NNS#[pivot](name17_19_91), @TIME(verb14_19_91,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ Snakes move faster on small branches and when contact points are present, in contrast to limbed animals, which do better on large branches with little &apos;clutter&apos;.
+</text>
+</item>
+<item>
+<predicates>
+do/VB(verb20_19_91,name9_19_91,dummyname21_19_91), point/NNS#[pivot](name9_19_91), contact/NN(name9_19_91), thing/NN(dummyname21_19_91), @TIME(verb20_19_91,present), @TIME_AT(verb20_19_91,name24_19_91), large/JJ(name24_19_91), branch/NNS#[pivot](name24_19_91), @WITH(verb20_19_91,name27_19_91), little/JJ(name27_19_91), [verbatim]_clutter/NNP#[pivot](name27_19_91), @GENITIVE(name9_19_91,[presupp_genitive]_0_name9_19_91), contact/NN([presupp_genitive]_0_name9_19_91), @MORE(dummyname21_19_91,name40_19_91), good/JJ(name40_19_91)
+</predicates>
+<link>
+
+</link>
+<text>
+ Snakes move faster on small branches and when contact points are present, in contrast to limbed animals, which do better on large branches with little &apos;clutter&apos;.
+</text>
+</item>
+<item>
+<predicates>
+help/VB(verb1_19_37,ref0_19_37,obj1_19_37), this/NN#[pivot](ref0_19_37), @TIME(verb1_19_37,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ This helps them swallow prey much larger than their heads.
+</text>
+</item>
+<item>
+<predicates>
+move/VB(verb20_19_78,ref13_19_78,ref22_19_78), cost/NN#[pivot](ref13_19_78), distance/NN#[pivot](ref22_19_78), same/JJ(ref22_19_78), @GENITIVE(verb20_19_78,ref13_19_78), @TIME(verb20_19_78,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ This mode of locomotion has very low caloric cost, less than ⅓ of the cost for a lizard or snake to move the same distance.
+</text>
+</item>
+<item>
+<predicates>
+snake/VB(verb18_19_78,ref13_19_78,obj18_19_78), cost/NN#[pivot](ref13_19_78), @TIME(verb18_19_78,present), @SUBORD(verb18_19_78,verb20_19_78), move/VB(verb20_19_78,ref13_19_78,ref22_19_78), distance/NN#[pivot](ref22_19_78), same/JJ(ref22_19_78), @GENITIVE(verb20_19_78,ref13_19_78), @TIME(verb20_19_78,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ This mode of locomotion has very low caloric cost, less than ⅓ of the cost for a lizard or snake to move the same distance.
+</text>
+</item>
+<item>
+<predicates>
+pull/VB(verb17_19_81,ref13_19_81,none), posterior/NN#[pivot](ref13_19_81), @TIME(verb17_19_81,past), @SUBORD(verb17_19_81,verb18_19_81), forward/VB(verb18_19_81,ref13_19_81,obj18_19_81), @TIME(verb18_19_81,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ The front portion then flexes and forms an anchor point, and the posterior is straightened and pulled forwards.
+</text>
+</item>
+<item>
+<predicates>
+straighten/VB(verb15_19_81,subj,ref13_19_81), posterior/NN#[pivot](ref13_19_81), @TIME(verb15_19_81,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ The front portion then flexes and forms an anchor point, and the posterior is straightened and pulled forwards.
+</text>
+</item>
+<item>
+<predicates>
+pull/VB(verb19_19_85,ref18_19_85,obj19_19_85), body/NN#[pivot](ref18_19_85), @PLACE_AT(verb19_19_85,name1_19_84), scale/NNS#[pivot](name1_19_84), belly/NN(name1_19_84), @TIME(verb19_19_85,past), @GENITIVE(name1_19_84,name5_19_84), locomotion/NN#[pivot](name5_19_84), snake/NN(name5_19_84), @GENITIVE(name1_19_84,[presupp_genitive]_0_ref5_19_85), belly/NN([presupp_genitive]_0_ref5_19_85), @GENITIVE(name5_19_84,[presupp_genitive]_0_name5_19_84), snake/NN([presupp_genitive]_0_name5_19_84)
+</predicates>
+<link>
+
+</link>
+<text>
+ In this mode, the belly scales are lifted and pulled forward before being placed down and the body pulled over them.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb3_19_15,ref1_19_15,name6_19_15), titanoboa/NN#[pivot](ref1_19_15), fossil/JJ(ref1_19_15), meter/NNS(name6_19_15), long/JJ#[pivot](name6_19_15), @TIME(verb3_19_15,past), @QUANTITY(name6_19_15,name10_19_15), 15/CD(name10_19_15)
+</predicates>
+<link>
+
+</link>
+<text>
+ The fossil Titanoboa was 15 meters  long.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb4_19_17,ref1_19_17,obj4_19_17), snake/NN(ref1_19_17), fossil/NNS#[pivot](ref1_19_17), earliest/JJS(ref1_19_17), @MOTION_FROM(verb4_19_17,ref7_19_17), lower/NN(ref7_19_17), cretaceous/NNS#[pivot](ref7_19_17), @TIME(verb4_19_17,present), @GENITIVE(ref1_19_17,[presupp_genitive]_0_ref1_19_17), snake/NN([presupp_genitive]_0_ref1_19_17), @MOTION_FROM(ref1_19_17,ref7_19_17), @GENITIVE(ref7_19_17,[presupp_genitive]_1_ref7_19_17), lower/NN([presupp_genitive]_1_ref7_19_17)
+</predicates>
+<link>
+
+</link>
+<text>
+ The earliest snake fossils are from the Lower Cretaceous.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb8_19_21,ref1_19_19,name9_19_21), squamates/NNS#[pivot](ref1_19_19), present/NN#[pivot](name9_19_21), @PLACE_AT(verb8_19_21,ref12_19_21), mesozoic/NN#[pivot](ref12_19_21), @TIME(verb8_19_21,past), @PLACE_AT(ref1_19_19,ref12_19_21), @PLACE_AT(name9_19_21,ref12_19_21)
+</predicates>
+<link>
+
+</link>
+<text>
+ Judged by their fossil record, the Squamates were present in the Mesozoic, but had a minor place in the land ecology.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb2_19_19,ref1_19_19,name6_19_19), squamates/NNS#[pivot](ref1_19_19), monophyletic/JJ(name6_19_19), group/NN#[pivot](name6_19_19), @TIME(verb2_19_19,present), @PLACE_AT(ref1_19_19,ref12_19_21), mesozoic/NN#[pivot](ref12_19_21), definitely/RB(verb2_19_19)
+</predicates>
+<link>
+
+</link>
+<text>
+The Squamates are definitely a monophyletic group.
+</text>
+</item>
+<item>
+<predicates>
+expand/VB(verb8_19_39,ref1_19_39,obj8_19_39), throat/NN#[pivot](ref1_19_39), @MODAL(verb8_19_39,can), @PLACE_AT(verb8_19_39,name13_19_39), extraordinary/JJ(name13_19_39), manner/NN#[pivot](name13_19_39), @TIME(verb8_19_39,present), @AND/-comma-(ref1_19_39,name3_19_39), stomach/NN#[pivot](name3_19_39), @QUANTIFIER(name13_19_39,most), @AND/CC(name3_19_39,name5_19_39), intestine/NNS#[pivot](name5_19_39), also/RB(verb8_19_39)
+</predicates>
+<link>
+
+</link>
+<text>
+ The throat, stomach and intestines can also expand in a most extraordinary manner.
+</text>
+</item>
+<item>
+<predicates>
+keep/VB(verb2_19_48,ref1_19_48,obj2_19_48), snake/NN#[pivot](ref1_19_48), @PLACE_AT(verb2_19_48,name4_19_48), rubbing/NNP#[pivot](name4_19_48), @PLACE_AT(verb2_19_48,name11_19_48), various/JJ(name11_19_48), rough/JJ(name11_19_48), object/NNS#[pivot](name11_19_48), @TIME(verb2_19_48,present), @TIME_FROM(verb2_19_48,name19_19_48), head/NN#[pivot](name19_19_48), @TIME_TO(verb2_19_48,ref14_19_48), peel/NNS#[pivot](ref14_19_48), skin/NN(ref14_19_48), @OWNED_BY(name19_19_48,ref8_19_44), @GENITIVE(ref14_19_48,[presupp_genitive]_0_ref14_19_48), skin/NN([presupp_genitive]_0_ref14_19_48), off/RP(verb2_19_48)
+</predicates>
+<link>
+
+</link>
+<text>
+ The snake keeps on rubbing its skin on various rough objects until the skin peels off from its head.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb3_19_67,ref1_19_67,ref6_19_67), wave/NN(ref1_19_67), speed/NN#[pivot](ref1_19_67), same/JJ#[pivot](ref6_19_67), @TIME(verb3_19_67,present), @TOPIC(verb3_19_67,ref9_19_67), speed/NN#[pivot](ref9_19_67), snake/NN(ref9_19_67), @TOPIC(verb3_19_67,name15_19_67), result/NN#[pivot](name15_19_67), @GENITIVE(ref1_19_67,[presupp_genitive]_0_ref1_19_67), wave/NN([presupp_genitive]_0_ref1_19_67), @TOPIC(ref1_19_67,ref9_19_67), @TOPIC(ref1_19_67,name15_19_67), @TOPIC(ref6_19_67,ref9_19_67), @TOPIC(ref6_19_67,name15_19_67), @GENITIVE(ref9_19_67,[presupp_genitive]_1_ref9_19_67), snake/NN([presupp_genitive]_1_ref9_19_67), precisely/RB(verb3_19_67)
+</predicates>
+<link>
+
+</link>
+<text>
+ The wave speed is precisely the same as the snake speed, and as a result, every point on the snake&apos;s body follows the path of the point ahead of it, allowing snakes to move through very dense vegetation and small openings.
+</text>
+</item>
+<item>
+<predicates>
+be/VB(verb3_19_83,ref1_19_83,obj3_19_83), high/JJ(ref1_19_83), cost/NN#[pivot](ref1_19_83), this/DT(ref1_19_83), @CAUSED_BY(verb3_19_83,name6_19_83), stop/NNS#[pivot](name6_19_83), repeated/JJ(name6_19_83), @TIME(verb3_19_83,present), @CAUSED_BY(ref1_19_83,name6_19_83), @AND/CC(name6_19_83,name9_19_83), start/NNS#[pivot](name9_19_83), @GENITIVE(name6_19_83,verb19_19_83), use/VBG(verb19_19_83,name6_19_83,name22_19_83), @GENITIVE(name9_19_83,name11_19_83), portion/NNS#[pivot](name11_19_83), @GENITIVE(name11_19_83,ref14_19_83), body/NN#[pivot](ref14_19_83), @AND/CC(ref14_19_83,ref17_19_83), necessity/NN#[pivot](ref17_19_83)
+</predicates>
+<link>
+
+</link>
+<text>
+ This high cost is due to the repeated stops and starts of portions of the body as well as the necessity of using active muscular effort to brace against the tunnel walls.
+</text>
+</item>
+<item>
+<predicates>
+become/VB(verb5_19_68,ref5_19_64,dummyname6_19_68), wave/NNS#[pivot](ref5_19_64), thing/NN(dummyname6_19_68), @MORE(verb5_19_68,name21_19_68), fast/JJ(name21_19_68), @TIME(verb5_19_68,present), @GENITIVE(ref5_19_64,[presupp_genitive]_0_ref5_19_64), posteriorly/NN([presupp_genitive]_0_ref5_19_64), @AND/-comma-(ref5_19_64,name1_19_68), swimming/NNP(name1_19_68), @AND/CC(dummyname6_19_68,ref18_19_68), wave/NN(ref18_19_68), travel/NNS(ref18_19_68), backward/NNS#[pivot](ref18_19_68), @MORE(dummyname6_19_68,name38_19_68), large/JJ(name38_19_68), @COMPARED_TO(name21_19_68,ref24_19_68), move/NNS(ref24_19_68), forward/NNS#[pivot](ref24_19_68), snake/NN(ref24_19_68), @AND/-comma-(ref18_19_68,name14_19_68), body/NN#[pivot](name14_19_68), @GENITIVE(ref18_19_68,[presupp_genitive]_0_ref18_19_68), wave/NN([presupp_genitive]_0_ref18_19_68), @GENITIVE(ref18_19_68,[presupp_genitive]_1_ref18_19_68), travel/NNS([presupp_genitive]_1_ref18_19_68), @GENITIVE(ref24_19_68,[presupp_genitive]_2_ref24_19_68), snake/NN([presupp_genitive]_2_ref24_19_68), @GENITIVE(ref24_19_68,[presupp_genitive]_3_ref24_19_68), move/NNS([presupp_genitive]_3_ref24_19_68), @GENITIVE(name14_19_68,ref12_19_68), down/RP(ref12_19_68), snake/NN(ref12_19_68), @TIME_AT(verb5_19_68,verb9_19_68), move/VB(verb9_19_68,ref5_19_64,name14_19_68), @TIME(verb9_19_68,present), @TIME_AT/WRB(verb9_19_68,ref5_19_64)
+</predicates>
+<link>
+
+</link>
+<text>
+When swimming, the waves become larger as they move down the snake&apos;s body, and the wave travels backwards faster than the snake moves forwards.
+</text>
+</item>
+<item>
+<predicates>
+push/VB(verb8_19_64,ref5_19_64,obj8_19_64), posteriorly/NN(ref5_19_64), moving/JJ(ref5_19_64), wave/NNS#[pivot](ref5_19_64), @PLACE_AT(verb8_19_64,ref2_19_64), mode/NN#[pivot](ref2_19_64), this/DT(ref2_19_64), @PLACE_AT(verb8_19_64,name14_19_64), environment/NN#[pivot](name14_19_64), @TIME(verb8_19_64,present), @GENITIVE(ref5_19_64,[presupp_genitive]_0_ref5_19_64), posteriorly/NN([presupp_genitive]_0_ref5_19_64), @AND/-comma-(ref5_19_64,name1_19_68), swimming/NNP(name1_19_68), @AND/-comma-(name14_19_64,name11_19_64), contact/NN(name11_19_64), point/NNS#[pivot](name11_19_64), @COMPARED_TO(name14_19_64,name17_19_64), rock/NNS#[pivot](name17_19_64), @GENITIVE(name11_19_64,[presupp_genitive]_1_name11_19_64), contact/NN([presupp_genitive]_1_name11_19_64), @AND/-comma-(name17_19_64,name19_19_64), irregularity/NNS#[pivot](name19_19_64), twig/NNS#[pivot](name19_19_64), @AND/-comma-(name19_19_64,name21_19_64), @PLACE_AT(name19_19_64,ref24_19_64), soil/NN#[pivot](ref24_19_64)
+</predicates>
+<link>
+
+</link>
+<text>
+ In this mode, the posteriorly moving waves push against contact points in the environment, such as rocks, twigs, irregularities in the soil, etc.
+</text>
+</item>
+<item>
+<predicates>
+be/V([parenthetical]verb9_19_68,ref5_19_64,name1_19_68), wave/NNS#[pivot](ref5_19_64), swimming/NNP(name1_19_68), @GENITIVE(ref5_19_64,[presupp_genitive]_0_ref5_19_64), posteriorly/NN([presupp_genitive]_0_ref5_19_64), @AND/-comma-(ref5_19_64,name1_19_68)
+</predicates>
+<link>
+
+</link>
+<text>
+When swimming, the waves become larger as they move down the snake&apos;s body, and the wave travels backwards faster than the snake moves forwards.
+</text>
+</item>
+<item>
+<predicates>
+brace/VB(verb6_19_80,ref5_19_80,name8_19_80), snake/NN#[pivot](ref5_19_80), portion/NN#[pivot](name8_19_80), posterior/JJ#[pivot](name8_19_80), @MOTION_AGAINST(verb6_19_80,ref15_19_80), tunnel/NN(ref15_19_80), wall/NN#[pivot](ref15_19_80), @PLACE_AT(verb6_19_80,ref2_19_80), this/DT(ref2_19_80), mode/NN#[pivot](ref2_19_80), @TIME(verb6_19_80,present), @GENITIVE(name8_19_80,name12_19_80), body/NN#[pivot](name12_19_80), @GENITIVE(ref15_19_80,[presupp_genitive]_0_ref15_19_80), tunnel/NN([presupp_genitive]_0_ref15_19_80), @OWNED_BY(name12_19_80,name1_19_76), @TIME_AT(verb6_19_80,verb23_19_80), extend/VB(verb23_19_80,name19_19_80,obj23_19_80), front/NN#[pivot](name19_19_80), @TIME(verb23_19_80,present), @GENITIVE(name19_19_80,ref22_19_80), snake/NN#[pivot](ref22_19_80)
+</predicates>
+<link>
+
+</link>
+<text>
+ In this mode, the snake braces the posterior portion of its body against the tunnel wall while the front of the snake extends and straightens.
+</text>
+</item>
+<item>
+<predicates>
+do/VB(verb8_19_43,ref6_19_43,obj8_19_43), leg/NNS#[pivot](ref6_19_43), @TIME(verb8_19_43,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ This is a relic of the legs which do not appear in modern snakes.
+</text>
+</item>
+<item>
+<predicates>
+split/VBG(verb11_19_47,none,obj11_19_47), @TIME(verb11_19_47,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ This causes the skin, which is already stretched, to split open.
+</text>
+</item>
+<item>
+<predicates>
+point/VB(verb18_19_67,name17_19_67,obj18_19_67), every/DT#[pivot](name17_19_67), @TIME(verb18_19_67,present), @PLACE_AT(verb18_19_67,verb24_19_67), follow/VB(verb24_19_67,name23_19_67,name26_19_67), body/NN#[pivot](name23_19_67), path/NN#[pivot](name26_19_67), @BEFORE(verb24_19_67,ref1_19_67), wave/NN(ref1_19_67), speed/NN#[pivot](ref1_19_67), @TIME(verb24_19_67,present), @GENITIVE(name23_19_67,ref21_19_67), snake/NN(ref21_19_67), @GENITIVE(name26_19_67,ref29_19_67), point/NN#[pivot](ref29_19_67), @GENITIVE(ref1_19_67,[presupp_genitive]_0_ref1_19_67), wave/NN([presupp_genitive]_0_ref1_19_67), @TOPIC(ref1_19_67,ref9_19_67), speed/NN#[pivot](ref9_19_67), snake/NN(ref9_19_67), @TOPIC(ref1_19_67,name15_19_67), result/NN#[pivot](name15_19_67), @GENITIVE(ref9_19_67,[presupp_genitive]_1_ref9_19_67), snake/NN([presupp_genitive]_1_ref9_19_67)
+</predicates>
+<link>
+
+</link>
+<text>
+ The wave speed is precisely the same as the snake speed, and as a result, every point on the snake&apos;s body follows the path of the point ahead of it, allowing snakes to move through very dense vegetation and small openings.
+</text>
+</item>
+<item>
+<predicates>
+minimize/VBG(verb24_19_76,none,none), thereby/RB(verb24_19_76)
+</predicates>
+<link>
+
+</link>
+<text>
+ This mode of locomotion overcomes the slippery nature of sand or mud by pushing off with only static portions on the body, thereby minimizing slipping.
+</text>
+</item>
+<item>
+<predicates>
+stalk/VBG(verb29_19_87,none,none)
+</predicates>
+<link>
+
+</link>
+<text>
+ The ribs of the snake do not move in this mode of locomotion and this method is most often used by large pythons, boas, and vipers when stalking prey across open ground as the snake&apos;s movements are subtle and harder to detect by their prey in this manner.
+</text>
+</item>
+<item>
+<predicates>
+stalk/VBG(verb29_19_87,none,none)
+</predicates>
+<link>
+
+</link>
+<text>
+ The ribs of the snake do not move in this mode of locomotion and this method is most often used by large pythons, boas, and vipers when stalking prey across open ground as the snake&apos;s movements are subtle and harder to detect by their prey in this manner.
+</text>
+</item>
+<item>
+<predicates>
+stalk/VBG(verb29_19_87,none,none)
+</predicates>
+<link>
+
+</link>
+<text>
+ The ribs of the snake do not move in this mode of locomotion and this method is most often used by large pythons, boas, and vipers when stalking prey across open ground as the snake&apos;s movements are subtle and harder to detect by their prey in this manner.
+</text>
+</item>
+<item>
+<predicates>
+think/VB(verb2_19_16,subj,none), @ALLOCUTION(verb2_19_16,name0_19_16), snake/NNPS#[pivot](name0_19_16), @TIME(verb2_19_16,present), @SUBORD(verb2_19_16,verb5_19_16), evolve/VB(verb5_19_16,name0_19_16,obj5_19_16), @MOTION_FROM(verb5_19_16,name7_19_16), lizard/NNPS#[pivot](name7_19_16), @TIME(verb5_19_16,past), @GENITIVE(name7_19_16,[presupp_genitive]_0_name10_19_36), @OWNED_BY(name7_19_16,name8_19_32)
+</predicates>
+<link>
+
+</link>
+<text>
+Snakes are thought to have evolved from lizards.
+</text>
+</item>
+<item>
+<predicates>
+allow/VB(verb33_19_67,name17_19_67,none), every/DT#[pivot](name17_19_67), @SUBORD(verb33_19_67,verb36_19_67), move/VB(verb36_19_67,name34_19_67,obj36_19_67), snake/NNS#[pivot](name34_19_67), @MOTION_THROUGH(verb36_19_67,name40_19_67), dense/JJ(name40_19_67), vegetation/NN#[pivot](name40_19_67), @TIME(verb36_19_67,present), @AND/CC(name40_19_67,name42_19_67), small/JJ#[pivot](name42_19_67)
+</predicates>
+<link>
+
+</link>
+<text>
+ The wave speed is precisely the same as the snake speed, and as a result, every point on the snake&apos;s body follows the path of the point ahead of it, allowing snakes to move through very dense vegetation and small openings.
+</text>
+</item>
+<item>
+<predicates>
+exist/VB(verb3_19_40,obj3_19_40,none), @PLACE_AT(verb3_19_40,ref1_19_40), this/NN#[pivot](ref1_19_40), @TIME(verb3_19_40,past)
+</predicates>
+<link>
+
+</link>
+<text>
+ In this was, a thin-looking snake can swallow and digest a larger animal.
+</text>
+</item>
+<item>
+<predicates>
+detect/VB(verb44_19_87,name42_19_87,obj44_19_87), harder/RBR(name42_19_87), @TIME(verb44_19_87,present)
+</predicates>
+<link>
+
+</link>
+<text>
+ The ribs of the snake do not move in this mode of locomotion and this method is most often used by large pythons, boas, and vipers when stalking prey across open ground as the snake&apos;s movements are subtle and harder to detect by their prey in this manner.
+</text>
+</item>
+<item>
+<predicates>
+use/VB(verb4_19_31,ref1_19_31,none), @COMPARED_TO(verb4_19_31,name15_19_31), self-defense/JJ#[pivot](name15_19_31), @TIME(verb4_19_31,present), @SUBORD(verb4_19_31,verb8_19_31), kill/VB(verb8_19_31,name3_19_31,obj8_19_31), venom/NNP#[pivot](name3_19_31), @TIME(verb8_19_31,present), rather/RB(verb4_19_31), mainly/RB(verb4_19_31)
+</predicates>
+<link>
+
+</link>
+<text>
+ Those that have venom use it mainly to kill and subdue prey rather than for self-defense.
+</text>
+</item>
+<item>
+<predicates>
+arise/VB(verb7_19_23,subj7_19_23,obj7_19_23), @PLACE_AT(verb7_19_23,ref11_19_23), jurassic/NN#[pivot](ref11_19_23), @TIME(verb7_19_23,past), probably/RB(verb7_19_23)
+</predicates>
+<link>
+
+</link>
+<text>
+ Probably all, certainly the lizards, arose earlier in the Jurassic.
+</text>
+</item>
+<item>
+<predicates>
+exist/VB(verb7_19_79,obj7_19_79,none), @TIME(verb7_19_79,present), @SUBORD(verb7_19_79,verb12_19_79), use/VB(verb12_19_79,obj7_19_79,name13_19_79), sidewinding/NNS#[pivot](name13_19_79), @CAUSED_BY(verb12_19_79,name16_19_79), constraint/NNS#[pivot](name16_19_79), lateral/JJ(name16_19_79), @TIME(verb12_19_79,present), enough/RB(verb7_19_79), not/RB(verb7_19_79), @PAR/-comma-(verb12_19_79,verb23_19_79), rely/VB(verb23_19_79,name22_19_79,name3_19_79), snake/NNS#[pivot](name22_19_79), absent/JJ#[pivot](name3_19_79), @PLACE_AT(verb23_19_79,name20_19_79), tunnel/NNPS#[pivot](name20_19_79), @PLACE_AT(verb23_19_79,name8_19_59), concertina/NNP(name8_19_59), locomotion/NNP#[pivot](name8_19_59), @TIME(verb23_19_79,present), @GENITIVE(name8_19_59,name25_19_79)
+</predicates>
+<link>
+
+</link>
+<text>
+When push-points are absent, but there is not enough space to use sidewinding because of lateral constraints, such as in tunnels, snakes rely on concertina locomotion.
+</text>
+</item>
+</data>
+<clauses>
+<item>
+<predicates>
+undulate/VB(verb18_19_90,_name1_19_90,obj18_19_90), laterally/RB(verb18_19_90), general/JJ#[pivot](_name1_19_90), @PAR/-comma-(_name1_19_90,_verb5_19_90) :- contact/NN(_name21_19_90), point/NNS#[pivot](_name21_19_90), be/VB(_verb22_19_90,_name21_19_90,_name23_19_90), contact/NN(_[presupp_genitive]_0_name21_19_90), general/JJ#[pivot](_name1_19_90), available/JJ#[pivot](_name23_19_90), @GENITIVE(_name21_19_90,_[presupp_genitive]_0_name21_19_90), @PAR/-comma-(_name1_19_90,_verb5_19_90), @PLACE_AT|@MOTION_FROM|@MOTION_TO|@MOTION_THROUGH(_verb22_19_90,_name1_19_90)
+</predicates>
+<link>
+
+</link>
+<text>
+ In general, snakes will use a modified form of concertina locomotion on smooth branches, but will laterally undulate if contact points are available.
+</text>
+<weight>
+1
+</weight>
+</item>
+</clauses>
+<questions>
+</questions>
+</wisdom>

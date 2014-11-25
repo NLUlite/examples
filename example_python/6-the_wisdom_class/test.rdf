@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix swp: <http://www.w3.org/2004/03/trix/swp-1/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ex: <http://www.example.org/vocabulary#> .
+
+:G0 {
+	:none	swp:assertedBy	_:none .
+	:chancellor	swp:assertedBy	_:ref1_3_0 .
+	:go	swp:assertedBy	_:verb3_3_0 .
+	:berlin	swp:assertedBy	_:name5_3_0 .
+	_:ref1_3_0	_:verb3_3_0	_:none .
+	_:verb3_3_0	:motionTo	_:name5_3_0 .
+	_:verb3_3_0	:tense	:present|continuative .
+}
+
+:links {
+	:G0	swp:link	ciao .
+}

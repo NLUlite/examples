@@ -1,0 +1,33 @@
+<wisdom>
+<data>
+<item>
+<predicates>
+go/VB(verb3_2_0,ref1_2_0,obj3_2_0), chancellor/NN#[pivot](ref1_2_0), @MOTION_TO(verb3_2_0,name5_2_0), berlin/NNP#[pivot](name5_2_0), @TIME(verb3_2_0,present|continuative)
+</predicates>
+<link>
+ this is the description 
+</link>
+<text>
+ The chancellor is going to Berlin.
+</text>
+</item>
+</data>
+<clauses>
+<item>
+<predicates>
+person/NN#[pivot](_name1_2_1), smile/VB(verb8_2_1,_name1_2_1,obj8_2_1) :- person/NN#[pivot](_name1_2_1), be/VB(_verb2_2_1,_name1_2_1,_name3_2_1), happy/JJ#[pivot](_name3_2_1) \and satisfy/VB(_verb6_2_1,_subj,_name1_2_1), person/NN#[pivot](_name1_2_1)
+</predicates>
+<link>
+ this is the description 
+</link>
+<text>
+ If someone is happy and is satisfied he smiles.
+</text>
+<weight>
+1
+</weight>
+</item>
+</clauses>
+<questions>
+</questions>
+</wisdom>

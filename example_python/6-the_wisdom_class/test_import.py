@@ -8,7 +8,7 @@ BSD license.
 """
 
 __author__  = 'NLUlite'
-__version__ = '0.1.0'
+__version__ = '0.1.4'
 __license__ = 'BSD'
 
 

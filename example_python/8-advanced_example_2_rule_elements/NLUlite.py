@@ -9,7 +9,7 @@ with BSD license.
 """
 
 __author__  = 'NLUlite'
-__version__ = '0.1.0'
+__version__ = '0.1.4'
 __license__ = 'BSD'
 
 
@@ -257,6 +257,10 @@ class WisdomParameters:
         self.accuracy_level = 5
         self.solver_options = ''
         self.skip_presuppositions = ''
+        self.skip_solver = 'false'
+        self.do_solver = 'false'
+        self.add_data = 'true'
+        self.timeout = 10
 
     def set_num_answers(self, num):
         self.num_answers    = num
@@ -266,6 +270,17 @@ class WisdomParameters:
         self.solver_options = options
     def set_skip_presuppositions(self, options):
         self.skip_presuppositions = options
+    def set_skip_solver(self, options):
+        self.skip_solver = options
+    def set_do_solver(self, options):
+        self.do_solver = options
+    def get_do_solver(self):
+        return self.do_solver
+    def set_add_data(self, options):
+        self.add_data = options
+    def set_timeout(self, options):
+        self.timeout = options
+
 
     def get_num_answers(self):
         return self.num_answers
@@ -275,7 +290,12 @@ class WisdomParameters:
         return self.solver_options
     def get_skip_presuppositions(self):
         return self.skip_presuppositions
-
+    def get_skip_solver(self):
+        return self.skip_solver
+    def get_add_data(self):
+        return self.add_data
+    def get_timeout(self):
+        return self.timeout
 
         
 class Wisdom:
@@ -297,8 +317,18 @@ class Wisdom:
         answer_elements= []
         if reply == "":
             return Answer(self)
+            
+        root= ''
 
-        root= ET.fromstring(reply)
+        try:
+            root= ET.fromstring(reply)
+        except xml.etree.ElementTree.ParseError:
+            # If the answer is not well-formed, choose a default answer
+            answer= Answer(self)
+            answer.set_question_ID(self.ID + ':no_answer:' + str(answer_elements.__len__()) )
+            answer.status= ''
+            return answer            
+
         qID= status= ''
         for child in root: 
             if child.tag == 'qID':
@@ -603,12 +633,22 @@ class ServerProxy:
         num_answers    = wp.get_num_answers()
         solver_options = wp.get_solver_options()
         skip_presuppositions = wp.get_skip_presuppositions()
+        skip_solver = wp.get_skip_solver()
+        do_solver = wp.get_do_solver()
+        add_data = wp.get_add_data()
+        timeout = wp.get_timeout()
         text = ('<wisdom_parameters ' 
-                + 'accuracy_level=' + str(accuracy_level) 
+                + ' accuracy_level=' + str(accuracy_level) 
                 + ' num_answers=' + str(num_answers) 
                 + ' solver_options=' + solver_options 
                 + ' skip_presuppositions=' + skip_presuppositions 
-                + ' ID=' + ID + '>')
+                + ' skip_solver=' + skip_solver 
+                + ' do_solver=' + do_solver 
+                + ' add_data=' + add_data 
+                + ' ID=' + ID
+                + ' timeout=' + str(timeout)
+                + '>'
+        )
         text += '<eof>'
         reply = self.__send(text)
         return reply
